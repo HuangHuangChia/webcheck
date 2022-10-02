@@ -1,0 +1,1402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Taoyuan Psychiatric Center</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Description" content="" />
+<meta name="Keywords" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+
+<base href="https://www.typc.mohw.gov.tw/english/images/templates/mold_01_01/" />
+<link href="/english/framework/jquery-ui-1.12.1/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<link href="/english/framework/bootstrap-4.2.1-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="/english/framework/fontawesome-free-5.10.2-web/css/all.min.css" rel="stylesheet" type="text/css">
+<link href="/english/framework/fontawesome-free-5.10.2-web/css/fontawesome.css" rel="stylesheet" type="text/css">
+<link href="/english/framework/OwlCarousel2/assets/owl.theme.default.min.css" rel="stylesheet" type="text/css">
+<link href="/english/framework/OwlCarousel2/assets/owl.carousel.min.css" rel="stylesheet" type="text/css">
+<link href="/english/framework/animate/animate.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/english/styles/mold_01_01.css" type="text/css">
+<link rel="shortcut icon" href="/english/favicon.ico">
+<link rel="apple-touch-icon" href="/english/icon.png">
+
+<script src="/english/scripts/jquery-1.9.1.min.js"></script>
+<script src="/english/framework/jquery-ui-1.12.1/jquery-ui.min.js" async></script>
+<script language="JavaScript" type="text/JavaScript" src="/english/framework/jquery-cookie/jquery.cookie.js"></script>
+<script src="/english/framework/OwlCarousel2/owl.carousel.min.js"></script>
+<script src="/english/framework/animate/wow.min.js"></script>
+<script src="/english/framework/bootstrap-4.2.1-dist/js/bootstrap.bundle.min.js" async defer></script>
+<script src="/english/framework/fontawesome-free-5.10.2-web/js/all.min.js" async defer></script>
+<script src="/english/framework/fontawesome-free-5.10.2-web/js/fontawesome.min.js" async defer></script>
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+<script src="/english/scripts/lib.js" async defer></script>
+
+
+<script>
+$(document).ready(function(){
+	$('#f_small').click(function(){
+		$('body').css({'font-size' : '100%'});
+		$('.text-sm').css({'background': '#ffb952'});
+		$('.text-md').css({'background': 'white'});
+		$('.text-lg').css({'background': 'white'});
+		$.cookie('font_size','100', { expires: 1});
+		$.cookie('text-size','.text-sm', { expires: 1});
+		return false;
+	});
+	$('#f_normal').click(function(){
+		$('body').css({'font-size' : '110%'});
+		$('.text-sm').css({'background': 'white'});
+		$('.text-md').css({'background': '#ffb952'});
+		$('.text-lg').css({'background': 'white'});
+		$.cookie('font_size','110', { expires: -1});
+		$.cookie('text-size','.text-md', { expires: 1});
+		return false;
+	});
+	$('#f_large').click(function(){
+		$('body').css({'font-size' : '120%'});
+		$('.text-sm').css({'background': 'white'});
+		$('.text-md').css({'background': 'white'});
+		$('.text-lg').css({'background': '#ffb952'});
+		$.cookie('font_size','120', { expires: 1});
+		$.cookie('text-size','.text-lg', { expires: 1});
+		return false;
+	});
+
+	if(font_size = $.cookie('font_size')){
+		$('body').css({'font-size' : font_size + '%'});
+	}
+
+	if(font_size = $.cookie('text-size')){
+		$('.text-sm').css({'background': 'white'});
+		$('.text-md').css({'background': 'white'});
+		$('.text-lg').css({'background': 'white'});
+		$(font_size).css({'background': '#ffb952'});
+	}
+	new WOW().init();
+});
+</script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org/",
+	"@type": "WebPage",
+	"name": "Taoyuan Psychiatric Center",
+	"url": "http://www.typc.mohw.gov.tw",
+	"description": "",
+	"keywords" : [
+									""
+					
+	]
+}
+</script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement":[
+
+								{
+					"@type": "ListItem",
+					"position": 1,
+					"item":{
+						"@id": "/english/",
+						"name": "Taoyuan Psychiatric Center"
+					}
+			}
+						]
+}
+</script>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177334257-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-177334257-1');
+</script>
+
+
+
+
+
+
+
+</head>
+<body>
+
+<!--Top Link-->
+<div class="container-fluid bg-topmenu">
+	<noscript>All interactive features of this site use javascript, because your browser does not support javascript, so will not do anything, please open the browser's JavaScript state, thank you!</noscript>
+	<div class="d-none d-sm-block text-right">
+		<a href="/english/#Content" class="sr-only sr-only-focusable text-white bg-dark" title="Jump to the main content block">Jump to the main content block</a>
+		<div class="top_menu div-inline">
+			<a id="tiles_content" accesskey="U" name="Top" href="/english/#Top">:::</a>
+			<a href="/english/" title="回首頁">Home</a>&nbsp;|&nbsp;
+			<a href="/" title="中文版">中文版</a>&nbsp;|&nbsp;
+			<a href="/english/?aid=sitemap" title="Sitemap">Sitemap</a>&nbsp;|&nbsp;
+			<a href="/english/?aid=search" title="Search">Search <i class="fas fa-search"></i></a>&nbsp;
+		</div>
+
+		<div class="appoint-btn text-right div-inline">
+			<div class="text-size text-sm" text-size="sm">
+				<a class="d-block text-dark" href="/english/#f_small" id="f_small" name="f_small" title="Small Font">S</a>
+			</div>
+			<div class="text-size text-md" text-size="md">
+				<a class="d-block text-dark" href="/english/#f_normal" id="f_normal" name="f_normal" title="Medium Font">M</a>
+			</div>
+			<div class="text-size text-lg" text-size="lg">
+				<a class="d-block text-dark" href="/english/#f_large" id="f_large" name="f_large" title="Large Font">L</a>
+			</div>
+		</div>
+	</div>
+</div>
+<!--Top Link END-->
+
+<!--Main Menu-->
+<nav class="navbar navbar-expand-xl navbar-dark bg-mainmenu">
+	<div class="nav-img">
+		<a href="/english/" title="Taoyuan Psychiatric Center" class="d-block">
+			<h1 style="margin: 0px;">
+				<img class="img-fluid mx-auto" src="/english/images/home_img/logo.png" alt="Taoyuan Psychiatric Center">
+			</h1>
+		</a>
+	</div>
+	<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="icon-bar top-bar"></span>
+		<span class="icon-bar middle-bar"></span>
+		<span class="icon-bar bottom-bar"></span>
+	</button>
+
+	<div class="collapse navbar-collapse text-center" id="navbarNavDropdown">
+		<ul class="navbar-nav flex-wrap">
+												<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink1" href="#" title="About Us" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							About Us
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink1">
+															<a class="dropdown-item text-center" href="/english/?aid=101" title="Hospital Introduction(Open New Window)" target="_self" rel="noopener noreferrer">
+									Hospital Introduction(Open New Window)
+								</a>
+															<a class="dropdown-item text-center" href="/english/?aid=102" title="Department Introduction(Open New Window)" target="_self" rel="noopener noreferrer">
+									Department Introduction(Open New Window)
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink2" href="#" title="Team" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Team
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink2">
+															<a class="dropdown-item text-center" href="/english/?aid=201" title="Professional Team(Open New Window)" target="_self" rel="noopener noreferrer">
+									Professional Team(Open New Window)
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink3" href="#" title="Message" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Message
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink3">
+															<a class="dropdown-item text-center" href="/english/?aid=301" title="News(Open New Window)" target="_self" rel="noopener noreferrer">
+									News(Open New Window)
+								</a>
+															<a class="dropdown-item text-center" href="/english/?aid=302" title="Press Releases(Open New Window)" target="_self" rel="noopener noreferrer">
+									Press Releases(Open New Window)
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink4" href="#" title="Academic" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Academic
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink4">
+															<a class="dropdown-item text-center" href="/english/?aid=406" title="International Training Program(Open New Window)" target="_self" rel="noopener noreferrer">
+									International Training Program(Open New Window)
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink5" href="#" title="Service" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Service
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink5">
+															<a class="dropdown-item text-center" href="/english/?aid=505" title="Process(Open New Window)" target="_self" rel="noopener noreferrer">
+									Process(Open New Window)
+								</a>
+															<a class="dropdown-item text-center" href="/english/?aid=504" title="Telephone(Open New Window)" target="_self" rel="noopener noreferrer">
+									Telephone(Open New Window)
+								</a>
+															<a class="dropdown-item text-center" href="/english/?aid=508" title="Download(Open New Window)" target="_self" rel="noopener noreferrer">
+									Download(Open New Window)
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink6" href="#" title="Online" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Online
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink6">
+															<a class="dropdown-item text-center" href="http://register.typc.mohw.gov.tw/OINetReg/" title="Online Registration (Open New Window)" target="_blank" rel="noopener noreferrer">
+									Online Registration (Open New Window)
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink9" href="#" title="Opinion" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Opinion
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink9">
+															<a class="dropdown-item text-center" href="/english/?aid=902" title="Dean's Mailbox(Open New Window)" target="_self" rel="noopener noreferrer">
+									Dean's Mailbox(Open New Window)
+								</a>
+															<a class="dropdown-item text-center" href="/english/?aid=901" title="Opinion Mailbox(Open New Window)" target="_self" rel="noopener noreferrer">
+									Opinion Mailbox(Open New Window)
+								</a>
+													</div>
+					</li>
+									</ul>
+	</div>
+</nav>
+
+<script>
+	$(function() {
+		$('.dropdown').mouseenter(function() {
+			var $this = $(this);
+			$this.addClass('show').slideDown();
+			$this.find('.dropdown-menu').addClass('show');
+		});
+
+		$('.dropdown').mouseleave(function() {
+			var $this = $(this);
+			$this.removeClass('show');
+			$this.find('.dropdown-menu').removeClass('show');
+		});
+	});
+
+	$(document).ready(function() {
+		$(".dropdown").each(function(index, element) {
+			var $this_menu = $(element);
+			$this_menu.find('.dropdown-menu a').last().focusout(function() {
+				$this_menu.removeClass('show');
+				$this_menu.find('.dropdown-menu').removeClass('show');
+			});
+		});
+	});
+</script><!--Main Menu End-->
+
+<!--banner-->
+
+<noscript>Your browser does not support the JavaScript function. If the "Carousel" function cannot be used normally, please enable the JavaScript status of the browser, thank you!</noscript>
+<div id="banner" class="carousel slide" data-ride="carousel">
+	<ol class="carousel-indicators">
+					<li data-target="#banner" data-slide-to="0" class="active"></li>
+			</ol>
+
+	<div class="carousel-inner">
+					<div class="carousel-item active">
+				<a href=https://www.typc.mohw.gov.tw/english/ title='植樹活動' class='d-block'><img class='img-fluid w-100' src='/english/public/carousel/ab71b3943c0a6676a34002433f12574b.jpg' alt='植樹活動'></a>
+			</div>
+			</div>
+
+	<a class="carousel-control-prev" href="#banner" role="button" data-slide="prev" title="Previous">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#banner" role="button" data-slide="next" title="Next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div><!--banner End-->
+
+<!--option List-->
+<div class="container-fluid" style="background-color:#fff3cd; border-bottom: 5px solid #ffe6cd;">
+	<div class="row">
+		<div class="col-12 d-flex justify-content-center align-items-center flex-wrap">
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.4s">
+				<a href="/english/#Left" id="tiles_left" name="Left" accesskey="L" style="float:left;color:transparent;">:::</a>
+				<a class="op_icon" href="http://register.typc.mohw.gov.tw/OINetReg/" title="Network Registration (Open New Window) " target="_blank" rel="noopener noreferrer">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-globe-africa fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">Network Registration</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.3s">
+				<a class="op_icon" href="https://www.typc.mohw.gov.tw/english/?aid=501&iid=1" title="Clinic Progress (Open New Window) " target="_blank" rel="noopener noreferrer">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="far fa-calendar-alt fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">Clinic Progress</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.2s">
+				<a class="op_icon" href="https://register.typc.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NumberInq.aspx" title="Outpatient Schedule (Open New Window) " target="_blank" rel="noopener noreferrer">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-history fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">Outpatient Schedule</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.1s">
+				<a class="op_icon" href="/english/?aid=102" title="Department Introduction">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-user-md fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">Department Introduction</div>
+				</a>
+			</div>
+			<div class="wow fadeInLeft f-btn" data-wow-delay ="0.1s">
+				<a class="op_icon" href="/english/?aid=505" title="Medical Guide">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-notes-medical fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">Medical Guide</div>
+				</a>
+			</div>
+			<div class="wow fadeInLeft f-btn" data-wow-delay ="0.2s">
+				<a class="op_icon" href="/english/?aid=59&pid=84" title="Stock Medicine">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-pills fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">Stock Medicine</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.3s">
+				<a class="op_icon" href="/english/?aid=101&iid=5" title="Traffic Guide">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-map-marked-alt fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">Traffic Guide</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.4s">
+				<a class="op_icon" href="/english/?aid=510" title="Video">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-film fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">Video</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</div><!--option List End-->
+
+<div class="container">
+	<a href="/english/#Content" title="Main Content Area" id="tiles_Content" name="Content" accesskey="C" style="color:transparent;">:::</a>
+</div>
+
+<!--Marquee List-->
+<div class="container">
+	<div class="alert alert-primary" role="alert">
+		<button type="button" class="marquee-x" data-dismiss="alert" aria-label="Close" title="Close Message">
+			<span aria-hidden="true">&times;</span>
+		</button>
+		<strong class="marquee-title"><i class="far fa-bell"></i> News</strong>
+		<marquee scrollamount="2" direction="up" height="140" width="100%" onmouseover="this.stop()" onmouseout="this.start()" onfocus="this.stop()" onblur="this.start()">
+			<p style="font-size: 1em">
+				
+			</p>
+		</marquee>
+	</div>
+</div>
+<!--Marquee End-->
+<div class="container">
+	<div class="col-md-12 col-xs-12">
+		<div class="row" style="margin-bottom: 30px;">
+			<div class="col-md-9 col-xs-12 my-1" style="overflow: hidden;">
+				<ul class="nav nav-pills nav-fill" id="myTab" style="border-bottom: 2px solid #337ab7;">
+					<li class="nav-item">
+						<a title="News(Open New Window)" class="nav-link active" id="news-tab" tabindex="-1" data-toggle="tab" href="#news" role="tab" aria-controls="news" aria-selected="true">
+							News(Open New Window)
+						</a>
+					</li>
+					<li class="nav-item">
+						<a title="Medical Department" class="nav-link" id="news88-tab" tabindex="-1" data-toggle="tab" href="#news88" role="tab" aria-controls="news88" aria-selected="false">
+							Medical Department
+						</a>
+					</li>
+					<li class="nav-item">
+						<a title="Medical Affairs Department" class="nav-link" id="news90-tab" tabindex="-1" data-toggle="tab" href="#news90" role="tab" aria-controls="news90" aria-selected="false">
+							Medical Affairs Department
+						</a>
+					</li>
+					<li class="nav-item">
+						<a title="Administration Department" class="nav-link" id="news99-tab" tabindex="-1" data-toggle="tab" href="#news99" role="tab" aria-controls="news99" aria-selected="false">
+							Administration Department
+						</a>
+					</li>
+					<li class="nav-item">
+						<a title="Other Department" class="nav-link" id="news91-tab" tabindex="-1" data-toggle="tab" href="#news91" role="tab" aria-controls="news91" aria-selected="false">
+							Other Department
+						</a>
+					</li>
+				</ul>
+
+				<div class="tab-content" id="myTabContent">
+					<div class="tab-pane fade show active" id="news" role="tabpanel" aria-labelledby="news-tab">
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/english/?aid=301&page_name=detail&iid=7" title="Amoriken Apples were Kindly Given from Goshogawarashi (ごしょがわらし) in Japan to Encourage Our Efforts in Epidemic Prevention">
+										<span class="rowhoverSp">
+											[2021-02-27]
+										</span>
+										Amoriken Apples were Kind...
+										<span class="badge badge-dept">
+											Hospital
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/english/?aid=301&page_name=detail&iid=5" title="Blessed with Love and Joy, Wonderful Christmas is Coming to Our Hospital">
+										<span class="rowhoverSp">
+											[2021-02-27]
+										</span>
+										Blessed with Love and Joy...
+										<span class="badge badge-dept">
+											Hospital
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/english/?aid=301&page_name=detail&iid=3" title="Somaliland Ambassador Praises Taoyuan Psychiatric Center’s Integration of Smart Medicine into Psychiatric Care">
+										<span class="rowhoverSp">
+											[2021-04-20]
+										</span>
+										Somaliland Ambassador Pra...
+										<span class="badge badge-dept">
+											Hospital
+										</span>
+									</a>
+								</div>
+							</div>
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news-more" onclick="location.href='/english/?aid=301'" title="More News(Open New Window)">
+								<span class="glyphicon glyphicon-triangle-right"></span> More News(Open New Window)
+							</button>
+						</div> -->
+					</div>
+
+
+					<div class="tab-pane fade" id="news88" role="tabpanel" aria-labelledby="news88-tab">
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news88-more" onclick="location.href='/english/?aid=301'" title="More Medical Department">
+								<span class="glyphicon glyphicon-triangle-right"></span> More Medical Department
+							</button>
+						</div> -->
+					</div>
+
+
+					<div class="tab-pane fade" id="news90" role="tabpanel" aria-labelledby="news90-tab">
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news90-more" onclick="location.href='/english/?aid=301'" title="More Medical Affairs Department">
+								<span class="glyphicon glyphicon-triangle-right"></span> More Medical Affairs Department
+							</button>
+						</div> -->
+					</div>
+
+
+					<div class="tab-pane fade" id="news99" role="tabpanel" aria-labelledby="news99-tab">
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news99-more" onclick="location.href='/english/?aid=301'" title="More Administration Department">
+								<span class="glyphicon glyphicon-triangle-right"></span> More Administration Department
+							</button>
+						</div> -->
+					</div>
+
+
+					<div class="tab-pane fade" id="news91" role="tabpanel" aria-labelledby="news91-tab">
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news91-more" onclick="location.href='/english/?aid=301'" title="More Other Department">
+								<span class="glyphicon glyphicon-triangle-right"></span> More Other Department
+							</button>
+						</div> -->
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-xs-12 dotor-border wow fadeIn">
+				<noscript>Your browser does not support Javascript. If the carousel of " Doctor Introduction" cannot be used normally, please enable JavaScript in your browser. Thank you!</noscript>
+<div class="title wow fadeInRight" data-wow-delay="0.1s">
+	Doctor Introduction
+</div>
+<div class="col-md-12 col-12">
+	<div class="owl-carousel owl-theme owlDoctor wow fadeInRight" data-wow-delay="0.1s">
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=43&page_name=detail&iid=266" title="Dr. Hsueh-pin Chinag (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/a8d02f874fdbd6fcca06c250b4289ca2.JPG" alt="Dr. Hsueh-pin Chinag" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Community Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Hsueh-pin Chinag
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=43&page_name=detail&iid=75" title="Dr. En-Liang(Ellis) Wu (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/dda09d0229a3fee4ff7d9f2bc17e46b4.jpg" alt="Dr. En-Liang(Ellis) Wu" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Community Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. En-Liang(Ellis) Wu
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=43&page_name=detail&iid=199" title="Dr. Chen-Yang Wang (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/df60968c7a3824d92df3633a5de63841.jpg" alt="Dr. Chen-Yang Wang" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Community Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Chen-Yang Wang
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=43&page_name=detail&iid=57" title="Dr. Hung-Jung Chang (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/351d1f61753622ae0ae8799051f0e9b6.jpg" alt="Dr. Hung-Jung Chang" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Community Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Hung-Jung Chang
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=41&page_name=detail&iid=308" title="Dr. Hsien-Jane Chiu (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/de55ba9bdf3e22e316ecf71920b12fd0.jpg" alt="Dr. Hsien-Jane Chiu" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of General Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Hsien-Jane Chiu
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=46&page_name=detail&iid=59" title="Dr. Kuen-Hong, Wu (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/9640f008e7e7354e619b31d755ed53ad.jpg" alt="Dr. Kuen-Hong, Wu" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Addiction Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Kuen-Hong, Wu
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=46&page_name=detail&iid=62" title="Dr. Lien-Chung, Wei (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/5625fc0d68f439eb47190e2624a9c45e.jpg" alt="Dr. Lien-Chung, Wei" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Addiction Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Lien-Chung, Wei
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=46&page_name=detail&iid=61" title="Dr. Chia-Hsiang, Chan (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/ec4d9d38d086e21085b77d6d5f4d21fd.jpg" alt="Dr. Chia-Hsiang, Chan" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Addiction Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Chia-Hsiang, Chan
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=42&page_name=detail&iid=161" title="Dr. Yuan-Chang, Hsu (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/a1e1069e5aa282b28ac82f98ee656cd6.jpg" alt="Dr. Yuan-Chang, Hsu" width="155" />
+					</div>
+					<div class="titleArea">
+						Department of Child and Adolescent Psychiatry
+					</div>
+					<div class="txtArea">
+						Dr. Yuan-Chang, Hsu
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=42&page_name=detail&iid=72" title="Dr. Lee Shuan (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/4ba739b73862f38731638af7f361ba52.jpg" alt="Dr. Lee Shuan" width="155" />
+					</div>
+					<div class="titleArea">
+						Department of Child and Adolescent Psychiatry
+					</div>
+					<div class="txtArea">
+						Dr. Lee Shuan
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=42&page_name=detail&iid=68" title="Dr. Shih-kai Liu (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/fb57b847702d9c3148f310e06ef2a277.jpg" alt="Dr. Shih-kai Liu" width="155" />
+					</div>
+					<div class="titleArea">
+						Department of Child and Adolescent Psychiatry
+					</div>
+					<div class="txtArea">
+						Dr. Shih-kai Liu
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=42&page_name=detail&iid=64" title="Dr. Mei-Chu Chen (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/fe73f6a280b1a9fc69830c7cdb349568.jpg" alt="Dr. Mei-Chu Chen" width="155" />
+					</div>
+					<div class="titleArea">
+						Department of Child and Adolescent Psychiatry
+					</div>
+					<div class="txtArea">
+						Dr. Mei-Chu Chen
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=42&page_name=detail&iid=63" title="Dr.Chih-Tsai Chen (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/61ababfe77a0905f9520781b661b853a.jpg" alt="Dr.Chih-Tsai Chen" width="155" />
+					</div>
+					<div class="titleArea">
+						Department of Child and Adolescent Psychiatry
+					</div>
+					<div class="txtArea">
+						Dr.Chih-Tsai Chen
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=42&page_name=detail&iid=73" title="Dr. Kuo-Ping Li (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/08b78c112ea7c5b9a1bad6eedbdc5302.jpg" alt="Dr. Kuo-Ping Li" width="155" />
+					</div>
+					<div class="titleArea">
+						Department of Child and Adolescent Psychiatry
+					</div>
+					<div class="txtArea">
+						Dr. Kuo-Ping Li
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=96&page_name=detail&iid=277" title="Dr. Ying-Chih Cheng (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/59bfaa98c736f51e88900d22ad6c5c88.jpg" alt="Dr. Ying-Chih Cheng" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Geriatric Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Ying-Chih Cheng
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=96&page_name=detail&iid=272" title="Dr. Shin-Chiao Tien (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/649f2639985b64ac954afb174a3638f5.jpg" alt="Dr. Shin-Chiao Tien" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Geriatric Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Shin-Chiao Tien
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=96&page_name=detail&iid=279" title="Dr. En-Liang(Ellis) Wu (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/8b46feec02e4e200b538eff44e142acc.jpg" alt="Dr. En-Liang(Ellis) Wu" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Geriatric Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. En-Liang(Ellis) Wu
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=96&page_name=detail&iid=276" title="Dr. An-Sheng Lin (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/4d4a322daeeb7d01968f5be35b3605dc.JPG" alt="Dr. An-Sheng Lin" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Geriatric Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. An-Sheng Lin
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=96&page_name=detail&iid=275" title="Dr. Ching-Jow Hsieh (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/7f473092978cdc607f911dbba4543d3b.jpg" alt="Dr. Ching-Jow Hsieh" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Geriatric Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Ching-Jow Hsieh
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=96&page_name=detail&iid=278" title="Dr. Chen-Yang Wang (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/3906f1b6d9d1cf30fed29d4a8048f78b.jpg" alt="Dr. Chen-Yang Wang" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Geriatric Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Chen-Yang Wang
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=96&page_name=detail&iid=273" title="Dr. Hung-Yu Chan (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/db9f8e243a5cf9f95a3691d9d553bc84.jpg" alt="Dr. Hung-Yu Chan" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Geriatric Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Hung-Yu Chan
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/english/?aid=51&pid=96&page_name=detail&iid=269" title="Dr. Jiahn-Jyh Chen (Open New Window) " style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/english/public/public_se/329e6a1c781b58656eebf12267dea634.jpg" alt="Dr. Jiahn-Jyh Chen" width="155" />
+					</div>
+					<div class="titleArea">
+						Introduction of Geriatric Psychiatry Department
+					</div>
+					<div class="txtArea">
+						Dr. Jiahn-Jyh Chen
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+			</div>
+</div>
+
+<script>
+$('.owlDoctor').owlCarousel({
+	loop:true,
+	margin:20,
+	nav:false,
+	dots:false,
+	autoplay: true,
+	autoplayTimeout: 5000,
+	autoplayHoverPause: false,
+	responsive:{
+		0:{
+			items:1
+		},
+		600:{
+			items:1
+		},
+		1000:{
+			items:1
+		}
+	}
+})
+
+$(window).on('resize', function() {
+	if($('body').width()<991) {
+		var w = $('body').width();
+		var sqrt = Math.sqrt(w)
+		var h= sqrt/3+w;
+		$('.imgArea').css({'max-height': h});
+	} else {
+		$('.imgArea').css({'max-height': '300'});
+	}
+});
+</script>			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+	$(document).ready(function(){
+		$("#news-more").focusout(function(){
+			$("#news88-tab").focus();
+			$("#news88-tab").trigger('click');
+		});
+
+		$("#news88-more").focusout(function(){
+			$("#news90-tab").focus();
+			$("#news90-tab").trigger('click');
+		});
+
+		$("#news90-more").focusout(function(){
+			$("#news99-tab").focus();
+			$("#news99-tab").trigger('click');
+		});
+
+		$("#news99-more").focusout(function(){
+			$("#news91-tab").focus();
+			$("#news91-tab").trigger('click');
+		});
+	});
+</script>
+
+	<div class="rellinks">
+		<div class="container-fluid pb-3">
+			<div class="row">
+				<div class="col-12 col-md-12 text-left">
+					<h2 class="links_title">
+						<a href="/english/?aid=514" title="More Related Links"><i class="fa fa-link"></i>&nbsp;Related Links</a>
+					</h2>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="owl-carousel owl-theme owltourl">
+											<div class="item p-3">
+							<a href="https://www.mohw.gov.tw/mp-2.html" title="Ministry of Health and Welfare (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/c12b81fff4153af5fe86cd4670040f88.jpg" alt="Ministry of Health and Welfare (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.cdc.gov.tw/?aspxerrorpath=/travelepidemic.aspx" title="Taiwan Centers for Disease Control (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/c91fc9f24471c8f716b20194e5fdc7e1.jpg" alt="Taiwan Centers for Disease Control (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.hpa.gov.tw/EngPages/Index.aspx" title="Health Promotion Administratortion,Ministry of Health and Welfar (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/3d7ec95f7a7ecfea33f75539294bd450.jpg" alt="Health Promotion Administratortion,Ministry of Health and Welfar (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.tychb.gov.tw/100/index.asp" title="PNGDownload (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/dc4703cdc85f9a5f911416a7e298ff93.png" alt="PNGDownload (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://gec.ey.gov.tw/en/" title="Gender Equality Committee of the Executive Yuan (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/665929d94cebdd91531bbe117364fefb.jpg" alt="Gender Equality Committee of the Executive Yuan (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://dep.hcchb.gov.tw/" title="JPGDownload (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/61a8086cef145d6bc8c52d3cbbe21c51.jpg" alt="JPGDownload (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://tspc.tw/tspc/portal/English/" title="Taiwan Suicide Prevention Center (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/b5220d8e12ac2d64e1c086543e17773c.gif" alt="Taiwan Suicide Prevention Center (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.hcshb.gov.tw/index.jsp" title="JPGDownload (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/ab7dfb87f15487d0d8a1dc36de076ada.jpg" alt="JPGDownload (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.nhi.gov.tw/English/Default.aspx" title="National Health Insurance Administration (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/78b29894c30a5925a0e4d05705b0998b.jpg" alt="National Health Insurance Administration (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.mlshb.gov.tw/" title="JPGDownload (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/3299ddb06e55b06011cf6d5295442144.jpg" alt="JPGDownload (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://greenliving.epa.gov.tw/Public/Eng" title="Greenliving Information Platform (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/0a47dc0ea6a4dbb607eab51f2b5034fa.png" alt="Greenliving Information Platform (Open New Window) " /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://ibaby.mohw.gov.tw/en/" title="i-Baby information Service Website (Open New Window) " style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/english/public/tourl/2968d33da95c056f2b2af5deed9feab6.gif" alt="i-Baby information Service Website (Open New Window) " /></a>
+						</div>
+									</div>
+			</div>
+			<noscript>Your browser does not support the JavaScript function. If the "Related Links" function cannot be used normally, please enable the JavaScript status of your browser, thank you!</noscript>
+		</div>
+	</div>
+
+	<script>
+	$('.owltourl').owlCarousel({
+		loop:false,
+		margin:10,
+		nav:false,
+		dots:true,
+		autoplay: false,
+		autoplayTimeout: 2000,
+		autoplayHoverPause: false,
+		autoHeight:true,
+		responsive:{
+			0:{
+				items:2
+			},
+			600:{
+				items:4
+			},
+			1000:{
+				items:6
+			}
+		}
+	})
+	</script>
+
+<section class="HI_bg">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-12">
+				<div class="margin_h">
+					<div class="feature-box">
+						<a class="use-flex" href="tel:(03)369-8553 # 9" title="Phone:(03)369-8553 # 9">
+							<div class="col-md-12 col-4">
+								<div class="icon-box d-flex align-items-center justify-content-center">
+									<i class="fas fa-phone icon"></i>
+								</div>
+							</div>
+							<div class="col-md-12 col-8">
+								<div class="content text-center">
+									<div class="title">Phone</div>
+									<p>(03)369-8553 # 9</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-12">
+				<div class="margin_h">
+					<div class="feature-box">
+						<a class="use-flex" href="tel:(03)360-6929" title="Fax:(03)360-6929">
+							<div class="col-md-12 col-4">
+								<div class="icon-box d-flex align-items-center justify-content-center">
+									<i class="fas fa-fax icon"></i>
+								</div>
+							</div>
+							<div class="col-md-12 col-8">
+								<div class="content text-center">
+									<div class="title">Fax</div>
+									<p>(03)360-6929</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-12">
+				<div class="margin_h">
+					<div class="feature-box">
+						<a class="use-flex" href="https://www.google.com.tw/maps/search/Taoyuan Psychiatric Center" target="_blank" rel="noopener noreferrer" title="Address:No.71, Longshou St., Taoyuan Dist., Taoyuan City 33058, Taiwan (R.O.C.)">
+							<div class="col-md-12 col-4">
+								<div class="icon-box d-flex align-items-center justify-content-center">
+									<i class="fas fa-map-marked-alt icon"></i>
+								</div>
+							</div>
+							<div class="col-md-12 col-8">
+								<div class="content text-center">
+									<div class="title">Address</div>
+									<p>No.71, Longshou St., Taoyuan Dist., Taoyuan City 33058, Taiwan (R.O.C.)</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--Footer-->
+	<!--Right_Slide_Menu-->
+	<button style="width: auto;" class="side-menu-btn" id="side-menu-btn" onclick="openNav()" title="Quick Link">
+		<i class="fas fa-bars" style="margin-right:15px;"></i>Quick Link
+	</button>
+
+	<div id="mySidenav" class="sidenav">
+		<div class="SideNavImg">
+			<a href="javascript:void(0)" title="Close" class="closebtn" onclick="closeNav()">
+				<i class="fas fa-times-circle"></i>
+				<p style="display: none;margin: 0;font-size: 1rem;">Close</p>
+			</a>
+			<a class="logo d-block" href="/english/" title="Taoyuan Psychiatric Center">
+				<img class="img-fluid" src="/english/images/home_img/logo-white.png" alt="Taoyuan Psychiatric Center">
+			</a>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/english/public/tourl/quick_url/1bb32690f4cd617064f24282b7b9fa0a.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="http://register.typc.mohw.gov.tw/OINetReg/" title="Online Registration(Open New Window)" target="_blank" rel="noopener noreferrer">
+							Online Registration
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/english/public/tourl/quick_url/70edb6df01612f6d13311d84f78fe7b1.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="http://register.typc.mohw.gov.tw/OINetReg/OINetRhttps://www.typc.mohw.gov.tw/english/admin/main.php?bid=quick_url&page_name=listeg.Reg/Reg_NumberInq.aspx" title="Clinic Progress(Open New Window)" target="_blank" rel="noopener noreferrer">
+							Clinic Progress
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/english/public/tourl/quick_url/72c52b3faff2a997bd9d38ef120d0898.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="/english/?aid=505" title="Service Guide(Open New Window)" target="_blank" rel="noopener noreferrer">
+							Service Guide
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/english/public/tourl/quick_url/b8712e9131a0b30679f97d4d889b2c32.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="/english/?aid=101" title="About Us(Open New Window)" target="_blank" rel="noopener noreferrer">
+							About Us
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/english/public/tourl/quick_url/fc5adf7373203cfb107b7e3c5ea4e371.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="/english/?aid=102" title="Medical Team(Open New Window)" target="_blank" rel="noopener noreferrer">
+							Medical Team
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/english/public/tourl/quick_url/78902116c607a93a545aa7d6bd0bb85d.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="/english/?aid=512" title="FAQ(Open New Window)" target="_blank" rel="noopener noreferrer">
+							FAQ
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/english/public/tourl/quick_url/50c00455705b98410642d83c18865771.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="/english/?aid=101&iid=05" title="Location(Open New Window)" target="_blank" rel="noopener noreferrer">
+							Location
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<noscript>
+		Your browser does not support the JavaScript function. If the "Quick Link" function cannot be used normally, please enable the JavaScript status of your browser, thank you!
+	</noscript>
+<!--Right_Slide_Menu End-->
+
+
+<div class="container-fluid d-none d-sm-block" id="footerMap">
+	<div class="row text-center">
+		<div class="col-md-12" id="webMap">
+			<button class="btn WebMapbtn WebMapTitle" id="sitemaplinkx" title="Close Site Navigation">
+				<p style="display: none;">Close Site Navigation</p>
+				<i class="fas fa-chevron-up"></i>
+			</button>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12 use-flex-no-hieght" id="webMapArea">
+												<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">About Us</li>
+																																																																																																																<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=101" title="Hospital Introduction(Open New Window)">Hospital Introduction(Open New Window)</a>
+																			<ul style="padding-left:20px;">
+																					</ul>
+																	</li>
+																																									<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=102" title="Department Introduction(Open New Window)">Department Introduction(Open New Window)</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">Team</li>
+																																																																																																																																																																																	<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=201" title="Professional Team(Open New Window)">Professional Team(Open New Window)</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">Message</li>
+																																																																																																																																																																																														<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=301" title="News(Open New Window)">News(Open New Window)</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=302" title="Press Releases(Open New Window)">Press Releases(Open New Window)</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																												</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">Academic</li>
+																																																																																																																																																																																																																																																																												<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=406" title="International Training Program(Open New Window)">International Training Program(Open New Window)</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">Service</li>
+																																																																																																																																																																																																																																																																																																																			<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=505" title="Process(Open New Window)">Process(Open New Window)</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=504" title="Telephone(Open New Window)">Telephone(Open New Window)</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=508" title="Download(Open New Window)">Download(Open New Window)</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">Online</li>
+																																																																																																																																																																																																																																																																																																																																																																																																														<li class="linkw" style="text-align:center;">
+									<a href="http://register.typc.mohw.gov.tw/OINetReg/" target="_blank" rel="noopener noreferrer" title="Online Registration (Open New Window)(Open New Window)">Online Registration (Open New Window)</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">Opinion</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																											<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=902" title="Dean's Mailbox(Open New Window)">Dean's Mailbox(Open New Window)</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/english/?aid=901" title="Opinion Mailbox(Open New Window)">Opinion Mailbox(Open New Window)</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																															</ul>
+																																																																																																																																																																																																																																																																																																																																																																																																																															</div>
+	</div>
+	<noscript>Your browser does not support JavaScript. If the "Site Navigation" function does not work properly, please enable JavaScript in your browser. Thank you!</noscript>
+</div>
+
+
+<section class="footer_color">
+	<div class="container text-center">
+		<div class="row use-flex">
+			<div class="row d-none d-sm-block">
+				<div class="col-12 text-center footer-explain">
+					<a href="/english/?aid=information&iid=01" title="Accessibility">Accessibility</a>&emsp;&emsp;｜&emsp;&emsp;
+					<a href="/english/?aid=information&iid=02" title="Privacy Policy">Privacy Policy</a>&emsp;&emsp;｜&emsp;&emsp;
+					<a href="/english/?aid=information&iid=03" title="Website Security">Website Security</a>&emsp;&emsp;｜&emsp;&emsp;
+					<a href="/english/?aid=information&iid=04" title="Information Security">Information Security</a>
+				</div>
+			</div>
+
+			<div class="col-12 col-md-12 use-flex">
+				<div class="col-md-4 col-12 my-1">
+					<a href="/" class="footer-logo d-block" title="Taoyuan Psychiatric Center">
+						<img class="img-fluid" src="/english/images/home_img/logo-white.png" alt="Taoyuan Psychiatric Center" style="margin: 0 auto;">
+					</a>
+				</div>
+
+				<div class="col-md-1 col-sm-4 col-4 my-1">
+					<img class="img-fluid" src="/english/images/home_img/hpalogo.png" alt="Healthy Workplace Certification Mark" style="margin: 0 auto;">
+				</div>
+
+				<div class="col-md-2 col-sm-6 col-6 my-1">
+					<a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20140806174241" title="Web Accessibility Service(Open New Window)" style="display: block;" target="_blank" rel="noopener noreferrer">
+						<img class="img-fluid" src="/english/images/home_img/2A.png" alt="Accessible AA Mark" style="margin: 0 auto;">
+					</a>
+				</div>
+					<div class="col-md-3 col-xs-12 border-line text-center my-1 py-3">
+		<div>
+			<span>Current Number：<img src="/english/images/counter/12/3.gif" title="3" alt="3" align="top"><img src="/english/images/counter/12/8.gif" title="8" alt="8" align="top"><img src="/english/images/counter/12/0.gif" title="0" alt="0" align="top"><img src="/english/images/counter/12/1.gif" title="1" alt="1" align="top"><img src="/english/images/counter/12/0.gif" title="0" alt="0" align="top"><img src="/english/images/counter/12/3.gif" title="3" alt="3" align="top"><img src="/english/images/counter/12/1.gif" title="1" alt="1" align="top"></span>
+		</div>
+		<div>
+			<span>Update：2022-09-06</span>
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<div class="container-fluid" style="background-color: #ffbdbd;">
+	<div class="row">
+		<div class="col-12">
+			<div class="copy-right">
+									This site is best viewed in resolution of 1920*1080 and using Chrome & Firefox & Edge.
+							</div>
+		</div>
+	</div>
+</div>
+
+<noscript>
+	Your browser does not support JavaScript. If the "Back to Top" function cannot be used normally, please turn on the JavaScript status of your browser, thank you!
+</noscript>
+
+<div class="scroll-to-top">
+	<a href="javascript:void(0)" title="Back to Top" class="use-flex">
+		<p style="display: none;margin: 0;font-size: 1rem;">Top</p>
+		<i class="fas fa-chevron-up"></i>
+	</a>
+</div>
+
+
+<script>
+function openNav() {
+	$('#mySidenav').css('display','block');
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+	$('#mySidenav').css('display','none');
+	if($(window).width() > 768){
+		$('.side-menu-btn').focus();
+	}
+}
+
+$(".SideNavTitle a").last().focusout(function(){
+	$('#mySidenav').css('display','none');
+});
+
+
+$("#sitemaplinkx").click(function(){
+	chkText = $("#webMapArea").css("display");
+	$("#webMapArea").slideToggle("slow");
+	if (chkText == "none"){
+		$("#webMap").find("button").first().html("<i class='fas fa-chevron-up'></i>");
+		$(this).attr("title","Close Site Navigation")
+	}else{
+		$("#webMap").find("button").first().html("<i class='fas fa-chevron-down'></i>");
+		$(this).attr("title","Open Site Navigation")
+	}
+	$("a#sitemaplinkx").focus();
+});
+
+
+// Scroll to top btn
+if($('.scroll-to-top').length){
+	//Check to see if the window is top if not then display button
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 250) {
+		$('.scroll-to-top').fadeIn();
+		} else {
+		$('.scroll-to-top').fadeOut();
+		}
+	});
+
+	//Click event to scroll to top
+	$('.scroll-to-top').on('click', function(){
+		$('html, body').animate({scrollTop : 0},800);
+		return false;
+	});
+}
+</script><!--Footer End-->
+
+</body>
+</html>
+</body>
+
+</html>

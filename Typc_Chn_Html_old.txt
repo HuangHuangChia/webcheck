@@ -1,0 +1,2462 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<title>衛生福利部 桃園療養院</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Description" content="週五增設門診通知：為提升服務，本院星期五下午開立一診成人門診，需要的民眾請多加利用。
+
+本院兒童門診候診區及成人門診候診區，已增設政府無線網路iTaiwan 免費使用，歡迎民眾善加利用。 ................**賀  本院高年精神科、藥劑科、康復之家，榮獲　生策會國家品質標章認證。
+
+本院為服務民眾，9月16日、17日彈性休假日照常門診
+本院因應9/28颱風放假,9/28全天門急診服務全部正常提供,不受颱風影響.
+春節期間 (1/27 ~ 2/1)  門急診服務請至本院 急診室 看診。
+
+「本院為服務民眾，10月9日彈性休假日照常門診」" />
+<meta name="Keywords" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+
+<base href="https://www.typc.mohw.gov.tw/images/templates/mold_01_01/" />
+<link href="/framework/jquery-ui-1.12.1/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<link href="/framework/bootstrap-4.2.1-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="/framework/fontawesome-free-5.10.2-web/css/all.min.css" rel="stylesheet" type="text/css">
+<link href="/framework/fontawesome-free-5.10.2-web/css/fontawesome.css" rel="stylesheet" type="text/css">
+<link href="/framework/OwlCarousel2/assets/owl.theme.default.min.css" rel="stylesheet" type="text/css">
+<link href="/framework/OwlCarousel2/assets/owl.carousel.min.css" rel="stylesheet" type="text/css">
+<link href="/framework/animate/animate.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/styles/mold_01_01.css" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/icon.png">
+
+<script src="/scripts/jquery-1.9.1.min.js"></script>
+<script src="/framework/jquery-ui-1.12.1/jquery-ui.min.js" async></script>
+<script src="/framework/jquery-cookie/jquery.cookie.js" ></script>
+<script src="/framework/OwlCarousel2/owl.carousel.min.js"></script>
+<script src="/framework/animate/wow.min.js"></script>
+<script src="/framework/bootstrap-4.2.1-dist/js/bootstrap.bundle.min.js" async defer></script>
+<script src="/framework/fontawesome-free-5.10.2-web/js/all.min.js" async defer></script>
+<script src="/framework/fontawesome-free-5.10.2-web/js/fontawesome.min.js" async defer></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script src="/scripts/lib.js" async defer></script>
+
+
+<script>
+$(document).ready(function(){
+	$('#f_small').click(function(){
+		$('body').css({'font-size' : '100%'});
+		$('.text-sm').css({'background': '#ffb952'});
+		$('.text-md').css({'background': 'white'});
+		$('.text-lg').css({'background': 'white'});
+		$.cookie('font_size','100', { expires: 1});
+		$.cookie('text-size','.text-sm', { expires: 1});
+		return false;
+	});
+	$('#f_normal').click(function(){
+		$('body').css({'font-size' : '110%'});
+		$('.text-sm').css({'background': 'white'});
+		$('.text-md').css({'background': '#ffb952'});
+		$('.text-lg').css({'background': 'white'});
+		$.cookie('font_size','110', { expires: -1});
+		$.cookie('text-size','.text-md', { expires: 1});
+		return false;
+	});
+	$('#f_large').click(function(){
+		$('body').css({'font-size' : '120%'});
+		$('.text-sm').css({'background': 'white'});
+		$('.text-md').css({'background': 'white'});
+		$('.text-lg').css({'background': '#ffb952'});
+		$.cookie('font_size','120', { expires: 1});
+		$.cookie('text-size','.text-lg', { expires: 1});
+		return false;
+	});
+
+	if(font_size = $.cookie('font_size')){
+		$('body').css({'font-size' : font_size + '%'});
+	}
+
+	if(font_size = $.cookie('text-size')){
+		$('.text-sm').css({'background': 'white'});
+		$('.text-md').css({'background': 'white'});
+		$('.text-lg').css({'background': 'white'});
+		$(font_size).css({'background': '#ffb952'});
+	}
+	new WOW().init();
+});
+</script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org/",
+	"@type": "WebPage",
+	"name": "衛生福利部 桃園療養院",
+	"url": "https://www.typc.mohw.gov.tw",
+	"description": "週五增設門診通知：為提升服務，本院星期五下午開立一診成人門診，需要的民眾請多加利用。
+
+本院兒童門診候診區及成人門診候診區，已增設政府無線網路iTaiwan 免費使用，歡迎民眾善加利用。 ................**賀  本院高年精神科、藥劑科、康復之家，榮獲　生策會國家品質標章認證。
+
+本院為服務民眾，9月16日、17日彈性休假日照常門診
+本院因應9/28颱風放假,9/28全天門急診服務全部正常提供,不受颱風影響.
+春節期間 (1/27 ~ 2/1)  門急診服務請至本院 急診室 看診。
+
+「本院為服務民眾，10月9日彈性休假日照常門診」",
+	"keywords" : [
+									""
+					
+	]
+}
+</script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement":[
+
+								{
+					"@type": "ListItem",
+					"position": 1,
+					"item":{
+						"@id": "/",
+						"name": "衛生福利部 桃園療養院"
+					}
+			}
+						]
+}
+</script>
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177334257-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-177334257-1');
+</script>
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+<!--Top Link-->
+<div class="container-fluid bg-topmenu">
+	<noscript>本網站所有互動功能皆使用javascript，因為您的瀏覽器未支援javascript,因此不會有所動作，請開啟瀏覽器JavaScript狀態，謝謝！</noscript>
+	<div class="d-none d-sm-block text-right">
+		<a href="/#Content" class="sr-only sr-only-focusable text-white bg-dark" title="跳到主要內容區塊">跳到主要內容區塊</a>
+		<div class="top_menu div-inline">
+			<a id="tiles_content" accesskey="U" name="Top" href="/#Top">:::</a>
+			<a href="/" title="回首頁">回首頁</a>&nbsp;|&nbsp;
+			<a href="/english" title="English">English</a>&nbsp;|&nbsp;
+			<a href="/?aid=sitemap" title="網站導覽">網站導覽</a>&nbsp;|&nbsp;
+			<a href="/?aid=search" title="全文檢索">全文檢索 <i class="fas fa-search"></i></a>&nbsp;
+		</div>
+
+		<div class="appoint-btn text-right div-inline">
+			<div class="text-size text-sm" text-size="sm">
+				<a class="d-block text-dark" href="/#f_small" id="f_small" name="f_small" title="縮小字級">小</a>
+			</div>
+			<div class="text-size text-md" text-size="md">
+				<a class="d-block text-dark" href="/#f_normal" id="f_normal" name="f_normal" title="適中字級">中</a>
+			</div>
+			<div class="text-size text-lg" text-size="lg">
+				<a class="d-block text-dark" href="/#f_large" id="f_large" name="f_large" title="加大字級">大</a>
+			</div>
+		</div>
+	</div>
+</div>
+<!--Top Link END-->
+
+<!--Main Menu-->
+<nav class="navbar navbar-expand-xl navbar-dark bg-mainmenu">
+	<div class="nav-img">
+		<a href="/" title="衛生福利部 桃園療養院" class="d-block">
+			<h1 style="margin: 0px;">
+				<img class="img-fluid mx-auto" src="/images/home_img/logo.png" alt="衛生福利部 桃園療養院">
+			</h1>
+		</a>
+	</div>
+	<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="icon-bar top-bar"></span>
+		<span class="icon-bar middle-bar"></span>
+		<span class="icon-bar bottom-bar"></span>
+	</button>
+
+	<div class="collapse navbar-collapse text-center" id="navbarNavDropdown">
+		<ul class="navbar-nav flex-wrap">
+												<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink1" href="#" title="關於本院" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							關於本院
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink1">
+															<a class="dropdown-item text-center" href="/?aid=101" title="醫院介紹" target="_self" rel="noopener noreferrer">
+									醫院介紹
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=103" title="各界肯定" target="_self" rel="noopener noreferrer">
+									各界肯定
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=102" title="各科介紹" target="_self" rel="noopener noreferrer">
+									各科介紹
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink2" href="#" title="醫療團隊" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							醫療團隊
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink2">
+															<a class="dropdown-item text-center" href="/?aid=201" title="專業陣容" target="_self" rel="noopener noreferrer">
+									專業陣容
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink3" href="#" title="訊息專區" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							訊息專區
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink3">
+															<a class="dropdown-item text-center" href="/?aid=301" title="最新消息" target="_self" rel="noopener noreferrer">
+									最新消息
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=307" title="代診通知" target="_self" rel="noopener noreferrer">
+									代診通知
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=302" title="新聞稿" target="_self" rel="noopener noreferrer">
+									新聞稿
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=304" title="活動相簿" target="_self" rel="noopener noreferrer">
+									活動相簿
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=506" title="相關法令" target="_self" rel="noopener noreferrer">
+									相關法令
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=309" title="政府公開資訊" target="_self" rel="noopener noreferrer">
+									政府公開資訊
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=311" title="病床利用統計" target="_self" rel="noopener noreferrer">
+									病床利用統計
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=306" title="院        訊" target="_self" rel="noopener noreferrer">
+									院        訊
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=516" title="個資保護專區" target="_self" rel="noopener noreferrer">
+									個資保護專區
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=517" title="電子病歷專區" target="_self" rel="noopener noreferrer">
+									電子病歷專區
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink4" href="#" title="學術活動" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							學術活動
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink4">
+															<a class="dropdown-item text-center" href="/?aid=404" title="課程及講座" target="_self" rel="noopener noreferrer">
+									課程及講座
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=401" title="線上報名" target="_self" rel="noopener noreferrer">
+									線上報名
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=403" title="講義下載" target="_self" rel="noopener noreferrer">
+									講義下載
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=402" title="學術發表" target="_self" rel="noopener noreferrer">
+									學術發表
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink5" href="#" title="便民服務" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							便民服務
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink5">
+															<a class="dropdown-item text-center" href="/?aid=503&pid=0&page_name=sub_list" title="各類主題專區" target="_self" rel="noopener noreferrer">
+									各類主題專區
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=501" title="門診時間表" target="_self" rel="noopener noreferrer">
+									門診時間表
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=505" title="服務白皮書" target="_self" rel="noopener noreferrer">
+									服務白皮書
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=503" title="服務專區" target="_self" rel="noopener noreferrer">
+									服務專區
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=504" title="服務專線" target="_self" rel="noopener noreferrer">
+									服務專線
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=507" title="申訴流程" target="_self" rel="noopener noreferrer">
+									申訴流程
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=508" title="資料下載" target="_self" rel="noopener noreferrer">
+									資料下載
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=509" title="衛教資訊" target="_self" rel="noopener noreferrer">
+									衛教資訊
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=510" title="影音專區" target="_self" rel="noopener noreferrer">
+									影音專區
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=511" title="感謝函專區" target="_self" rel="noopener noreferrer">
+									感謝函專區
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=512" title="常見問題" target="_self" rel="noopener noreferrer">
+									常見問題
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=514" title="相關連結" target="_self" rel="noopener noreferrer">
+									相關連結
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=519" title="桃療專區" target="_self" rel="noopener noreferrer">
+									桃療專區
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink6" href="#" title="線上服務" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							線上服務
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink6">
+															<a class="dropdown-item text-center" href="https://register.typc.mohw.gov.tw/OINetReg/" title="網掛及門診表" target="_blank" rel="noopener noreferrer">
+									網掛及門診表
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=603" title="線上申訴服務" target="_self" rel="noopener noreferrer">
+									線上申訴服務
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=606" title="網路申辦" target="_self" rel="noopener noreferrer">
+									網路申辦
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink7" href="#" title="徵才或招標" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							徵才或招標
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink7">
+															<a class="dropdown-item text-center" href="/?aid=701" title="線上徵才" target="_self" rel="noopener noreferrer">
+									線上徵才
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=702" title="招標公告" target="_self" rel="noopener noreferrer">
+									招標公告
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=703" title="志工招募" target="_self" rel="noopener noreferrer">
+									志工招募
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink9" href="#" title="聯絡我們" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							聯絡我們
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink9">
+															<a class="dropdown-item text-center" href="/?aid=902" title="院長信箱" target="_self" rel="noopener noreferrer">
+									院長信箱
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=901" title="意見信箱" target="_self" rel="noopener noreferrer">
+									意見信箱
+								</a>
+													</div>
+					</li>
+																<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink8" href="#" title="線上問卷" target="_self" rel="noopener noreferrer" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							線上問卷
+						</a>
+						<div class="dropdown-menu m-0" aria-labelledby="navbarDropdownMenuLink8">
+															<a class="dropdown-item text-center" href="/?aid=801" title="衛教及熱門議題投票" target="_self" rel="noopener noreferrer">
+									衛教及熱門議題投票
+								</a>
+															<a class="dropdown-item text-center" href="/?aid=802" title="滿意度調查" target="_self" rel="noopener noreferrer">
+									滿意度調查
+								</a>
+													</div>
+					</li>
+									</ul>
+	</div>
+</nav>
+
+<script>
+	$(function() {
+		$('.dropdown').mouseenter(function() {
+			var $this = $(this);
+			$this.addClass('show').slideDown();
+			$this.find('.dropdown-menu').addClass('show');
+		});
+
+		$('.dropdown').mouseleave(function() {
+			var $this = $(this);
+			$this.removeClass('show');
+			$this.find('.dropdown-menu').removeClass('show');
+		});
+	});
+
+	$(document).ready(function() {
+		$(".dropdown").each(function(index, element) {
+			var $this_menu = $(element);
+			$this_menu.find('.dropdown-menu a').last().focusout(function() {
+				$this_menu.removeClass('show');
+				$this_menu.find('.dropdown-menu').removeClass('show');
+			});
+		});
+	});
+</script><!--Main Menu End-->
+
+<!--banner-->
+
+<noscript>您的瀏覽器不支援JavaScript功能，若「首頁輪播」功能無法正常使用時，請開啟瀏覽器JavaScript狀態，謝謝！</noscript>
+<div id="banner" class="carousel slide" data-ride="carousel">
+	<ol class="carousel-indicators">
+					<li data-target="#banner" data-slide-to="0" class="active"></li>
+					<li data-target="#banner" data-slide-to="1" ></li>
+					<li data-target="#banner" data-slide-to="2" ></li>
+					<li data-target="#banner" data-slide-to="3" ></li>
+					<li data-target="#banner" data-slide-to="4" ></li>
+					<li data-target="#banner" data-slide-to="5" ></li>
+					<li data-target="#banner" data-slide-to="6" ></li>
+					<li data-target="#banner" data-slide-to="7" ></li>
+					<li data-target="#banner" data-slide-to="8" ></li>
+					<li data-target="#banner" data-slide-to="9" ></li>
+					<li data-target="#banner" data-slide-to="10" ></li>
+					<li data-target="#banner" data-slide-to="11" ></li>
+					<li data-target="#banner" data-slide-to="12" ></li>
+					<li data-target="#banner" data-slide-to="13" ></li>
+					<li data-target="#banner" data-slide-to="14" ></li>
+			</ol>
+
+	<div class="carousel-inner">
+					<div class="carousel-item active">
+				<a href=http://www.typc.mohw.gov.tw/ title='桃療響應接種COVID-19疫苗第三劑' class='d-block'><img class='img-fluid w-100' src='/public/carousel/2eedb66f21c7a8b4b4b4fdfbf6a7cb08.png' alt='桃療響應接種COVID-19疫苗第三劑'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.typc.mohw.gov.tw/ title='特聘蔡長哲醫師' class='d-block'><img class='img-fluid w-100' src='/public/carousel/84f5fcc42ab0cb5fa1a3d4d63ba27be5.png' alt='蔡長哲醫師'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.typc.mohw.gov.tw/?aid=54&pid=100 title='進入rTMS專區介紹' class='d-block'><img class='img-fluid w-100' src='/public/carousel/155e18fc575440d998dc52f686ccd82b.jpg' alt='rTMS Facebook 首頁'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.typc.mohw.gov.tw/ title='通訊心理諮商' class='d-block'><img class='img-fluid w-100' src='/public/carousel/d7cdb5866ebc471ad85760741e880d67.jpg' alt='心理諮商'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.typc.mohw.gov.tw/ title='防疫計程車' class='d-block'><img class='img-fluid w-100' src='/public/carousel/475377a27bb43bec5c6f52a85d03256e.JPG' alt='防疫計程車'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.typc.mohw.gov.tw/?aid=54&pid=100 title='進入rTMS專區介紹' class='d-block'><img class='img-fluid w-100' src='/public/carousel/ea6a37d1966b38143018a7182d126dff.jpg' alt='腦醫學中心  顱磁刺激治療 憂鬱患的佳音'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.facebook.com/rTMS.TYPC.MHW title='進入rTMS FaceBook' class='d-block'><img class='img-fluid w-100' src='/public/carousel/baf2b550b2d9e596f5b064215b0549a6.jpg' alt='SNQ獲獎_V2'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.typc.mohw.gov.tw/ title='新型A型流感' class='d-block'><img class='img-fluid w-100' src='/public/carousel/6b2fd978f18f2767cd449301d871b2a0.JPG' alt='新型A型流感'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.cdc.gov.tw/ title='正確戴口罩' class='d-block'><img class='img-fluid w-100' src='/public/carousel/8e9711a872ceb652b432f1902be07033.png' alt='正確戴口罩'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.typc.mohw.gov.tw/ title='RTMS_推廣_V2' class='d-block'><img class='img-fluid w-100' src='/public/carousel/9313543f87b9b267c7fbefc0417ccdac.jpg' alt='RTMS_推廣_V2'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://www.typc.mohw.gov.tw/ title='諾羅防疫' class='d-block'><img class='img-fluid w-100' src='/public/carousel/33967a28bc3ea4c07d05e53815516d0d.JPG' alt='諾羅防疫'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=桃療宣導-節水一起來共抗旱 title='桃療宣導-節水一起來共抗旱' class='d-block'><img class='img-fluid w-100' src='/public/carousel/8bcf38c0fc774f04f475fa20c6febb1d.png' alt='桃療宣導-節水一起來共抗旱'></a>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://1966.gov.tw/LTC/mp-201.html title='長照2.0 服務在厝邊' class='d-block'><img class='img-fluid w-100' src='/public/carousel/8238a448eecf539bdf6e5ae8db441322.gif' alt='長照2.0 服務在厝邊'></a>
+			</div>
+					<div class="carousel-item ">
+				<img class='img-fluid w-100' src='/public/carousel/0aa9210cc3bfed7432bea05b5acbb8c4.png' alt='登革熱'>
+			</div>
+					<div class="carousel-item ">
+				<a href=https://1966.gov.tw/LTC/mp-201.html title='長照服務專線1996' class='d-block'><img class='img-fluid w-100' src='/public/carousel/0deeb71252644fdc678295756af8163c.gif' alt='長照服務專線1996'></a>
+			</div>
+			</div>
+
+	<a class="carousel-control-prev" href="#banner" role="button" data-slide="prev" title="上一張">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#banner" role="button" data-slide="next" title="下一張">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div><!--banner End-->
+
+<!--option List-->
+<div class="container-fluid" style="background-color:#fff3cd; border-bottom: 5px solid #ffe6cd;">
+	<div class="row">
+		<div class="col-12 d-flex justify-content-center align-items-center flex-wrap">
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.4s">
+				<a href="/#Left" id="tiles_left" name="Left" accesskey="L" style="float:left;color:transparent;">:::</a>
+				<a class="op_icon" href="https://register.typc.mohw.gov.tw/OINetReg/" title="網路掛號(開新視窗)" target="_blank" rel="noopener noreferrer">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-globe-africa fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">網路掛號</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.3s">
+				<a class="op_icon" href="https://www.typc.mohw.gov.tw/?aid=501" title="門診時刻(開新視窗)" target="_blank" rel="noopener noreferrer">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="far fa-calendar-alt fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">門診時刻</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.2s">
+				<a class="op_icon" href="https://register.typc.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NumberInq.aspx" title="看診進度(開新視窗)" target="_blank" rel="noopener noreferrer">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-history fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">看診進度</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.1s">
+				<a class="op_icon" href="/?aid=102" title="各科介紹">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-user-md fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">各科介紹</div>
+				</a>
+			</div>
+			<div class="wow fadeInLeft f-btn" data-wow-delay ="0.1s">
+				<a class="op_icon" href="/?aid=505" title="就醫指南">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-notes-medical fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">就醫指南</div>
+				</a>
+			</div>
+			<div class="wow fadeInLeft f-btn" data-wow-delay ="0.2s">
+				<a class="op_icon" href="/?aid=59&pid=84" title="常備藥品">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-pills fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">常備藥品</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.3s">
+				<a class="op_icon" href="/?aid=101&iid=5" title="交通指引">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-map-marked-alt fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">交通指引</div>
+				</a>
+			</div>
+			<div class="wow fadeInRight f-btn" data-wow-delay ="0.4s">
+				<a class="op_icon" href="/?aid=510" title="宣傳影片">
+					<div class="col-12">
+						<div class="p-2">
+							<i class="fas fa-film fa-3x"></i>
+						</div>
+					</div>
+					<div class="f-btn-text">宣傳影片</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</div><!--option List End-->
+
+<div class="container">
+	<a href="/#Content" id="tiles_Content" name="Content" accesskey="C" style="color:transparent;">:::</a>
+</div>
+
+<!--Marquee List-->
+<div class="container">
+	<div class="alert alert-primary" role="alert">
+		<button type="button" class="marquee-x" data-dismiss="alert" aria-label="Close" title="關閉快訊">
+			<span aria-hidden="true">&times;</span>
+		</button>
+		<strong class="marquee-title"><i class="far fa-bell"></i> 快訊</strong>
+		<marquee scrollamount="2" direction="up" height="140" width="100%" onmouseover="this.stop()" onmouseout="this.start()" onfocus="this.stop()" onblur="this.start()">
+			<p style="font-size: 1em">
+				本院配合衛生局辦理「確診居家隔離之視訊診療」服務，居家隔離民眾若有就醫需求，可撥打桃園市防疫專線0800-033355由衛生局安排視訊診療服務。
+			</p>
+		</marquee>
+	</div>
+</div>
+<!--Marquee End-->
+<div class="container-fluid">
+	<div class="col-md-12 col-xs-12">
+		<div class="row" style="margin-bottom: 30px;">
+			<div class="col-md-9 col-xs-12 my-1" style="overflow: hidden;">
+				<ul class="nav nav-pills nav-fill" id="myTab" style="border-bottom: 2px solid #337ab7;">
+					<li class="nav-item">
+						<a title="最新消息" class="nav-link active" id="news-tab" tabindex="-1" data-toggle="tab" href="#news" role="tab" aria-controls="news" aria-selected="true">
+							最新消息
+						</a>
+					</li>
+					<li class="nav-item">
+						<a title="醫療部" class="nav-link" id="news88-tab" tabindex="-1" data-toggle="tab" href="#news88" role="tab" aria-controls="news88" aria-selected="false">
+							醫療部
+						</a>
+					</li>
+					<li class="nav-item">
+						<a title="醫事部" class="nav-link" id="news90-tab" tabindex="-1" data-toggle="tab" href="#news90" role="tab" aria-controls="news90" aria-selected="false">
+							醫事部
+						</a>
+					</li>
+					<li class="nav-item">
+						<a title="行政部" class="nav-link" id="news99-tab" tabindex="-1" data-toggle="tab" href="#news99" role="tab" aria-controls="news99" aria-selected="false">
+							行政部
+						</a>
+					</li>
+					<li class="nav-item">
+						<a title="其他部門" class="nav-link" id="news91-tab" tabindex="-1" data-toggle="tab" href="#news91" role="tab" aria-controls="news91" aria-selected="false">
+							其他部門
+						</a>
+					</li>
+				</ul>
+
+				<div class="tab-content" id="myTabContent">
+					<div class="tab-pane fade show active" id="news" role="tabpanel" aria-labelledby="news-tab">
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2274" title="轉知國防部「全民國防手冊(範本)」宣導手冊">
+										<span class="rowhoverSp">
+											[2022-05-10]
+										</span>
+										轉知國防部「全民國防手冊(範本)」宣導手冊
+										<span class="badge badge-dept">
+											本院
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2323" title="遠距通訊門診">
+										<span class="rowhoverSp">
+											[2022-07-22]
+										</span>
+										遠距通訊門診
+										<span class="badge badge-dept">
+											本院
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2306" title="女性族群愛滋及子宮頸癌防治衛教">
+										<span class="rowhoverSp">
+											[2022-06-21]
+										</span>
+										女性族群愛滋及子宮頸癌防治衛教
+										<span class="badge badge-dept">
+											本院
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2305" title="愛滋篩檢衛教宣導小卡">
+										<span class="rowhoverSp">
+											[2022-06-21]
+										</span>
+										愛滋篩檢衛教宣導小卡
+										<span class="badge badge-dept">
+											本院
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2289" title="社團法人宜蘭縣渡安居女性關懷協會，辦理「藥癮者社區復健中途之家方案」簡介文宣，本院協助推廣">
+										<span class="rowhoverSp">
+											[2022-05-23]
+										</span>
+										社團法人宜蘭縣渡安居女性關懷協會，辦理「藥癮者社區復健中途之家方案」簡介文宣，本院協助推廣
+										<span class="badge badge-dept">
+											本院
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2267" title="兒青門診防疫措施公告">
+										<span class="rowhoverSp">
+											[2022-04-22]
+										</span>
+										兒青門診防疫措施公告
+										<span class="badge badge-dept">
+											本院
+										</span>
+									</a>
+								</div>
+							</div>
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news-more" onclick="location.href='/?aid=301'" title="更多最新消息">
+								<span class="glyphicon glyphicon-triangle-right"></span> 更多最新消息
+							</button>
+						</div> -->
+					</div>
+
+
+					<div class="tab-pane fade" id="news88" role="tabpanel" aria-labelledby="news88-tab">
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2358" title="111年精神復健機構專任管理人員任職資格教育訓練簡章">
+										<span class="rowhoverSp">
+											[2022-09-27]
+										</span>
+										111年精神復健機構專任管理人員任職資格教育訓練簡章
+										<span class="badge badge-dept">
+											社會工作科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2356" title="111年志工教育訓練簡章">
+										<span class="rowhoverSp">
+											[2022-09-22]
+										</span>
+										111年志工教育訓練簡章
+										<span class="badge badge-dept">
+											社會工作科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2351" title="桃園GO健康">
+										<span class="rowhoverSp">
+											[2022-09-16]
+										</span>
+										桃園GO健康
+										<span class="badge badge-dept">
+											護理科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2350" title="111年9月份家屬座談會">
+										<span class="rowhoverSp">
+											[2022-09-14]
+										</span>
+										111年9月份家屬座談會
+										<span class="badge badge-dept">
+											社會工作科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2349" title="111年9月13日會客須知">
+										<span class="rowhoverSp">
+											[2022-09-13]
+										</span>
+										111年9月13日會客須知
+										<span class="badge badge-dept">
+											護理科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2345" title="員工舒壓、舒心好開心-桃園療養院辦理員工插花課程">
+										<span class="rowhoverSp">
+											[2022-09-02]
+										</span>
+										員工舒壓、舒心好開心-桃園療養院辦理員工插花課程
+										<span class="badge badge-dept">
+											護理科
+										</span>
+									</a>
+								</div>
+							</div>
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news88-more" onclick="location.href='/?aid=301'" title="更多醫療部">
+								<span class="glyphicon glyphicon-triangle-right"></span> 更多醫療部
+							</button>
+						</div> -->
+					</div>
+
+
+					<div class="tab-pane fade" id="news90" role="tabpanel" aria-labelledby="news90-tab">
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2346" title="九月份用藥安全衛教">
+										<span class="rowhoverSp">
+											[2022-09-05]
+										</span>
+										九月份用藥安全衛教
+										<span class="badge badge-dept">
+											藥劑科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2343" title="藥品外觀變更通知-Leeyo 10mg">
+										<span class="rowhoverSp">
+											[2022-09-01]
+										</span>
+										藥品外觀變更通知-Leeyo 10mg
+										<span class="badge badge-dept">
+											藥劑科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2342" title="藥品外觀變更通知-Dextrose 5%">
+										<span class="rowhoverSp">
+											[2022-09-01]
+										</span>
+										藥品外觀變更通知-Dextrose 5%
+										<span class="badge badge-dept">
+											藥劑科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2341" title="藥品外觀變更通知-Co-Diovan 80mg/12.5mg">
+										<span class="rowhoverSp">
+											[2022-09-01]
+										</span>
+										藥品外觀變更通知-Co-Diovan 80mg/12.5mg
+										<span class="badge badge-dept">
+											藥劑科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2339" title="X光人員體外輻射劑量監測紀錄:安全範圍(111年7月份)資料來源:原子能委員會">
+										<span class="rowhoverSp">
+											[2022-08-30]
+										</span>
+										X光人員體外輻射劑量監測紀錄:安全範圍(111年7月份)資料來源:原子能委員會
+										<span class="badge badge-dept">
+											醫事檢驗科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2327" title="有關民眾因遺失COVID-19口服抗病毒藥物申請重複領藥之因應處置作為">
+										<span class="rowhoverSp">
+											[2022-08-01]
+										</span>
+										有關民眾因遺失COVID-19口服抗病毒藥物申請重複領藥之因應處置作為
+										<span class="badge badge-dept">
+											藥劑科
+										</span>
+									</a>
+								</div>
+							</div>
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news90-more" onclick="location.href='/?aid=301'" title="更多醫事部">
+								<span class="glyphicon glyphicon-triangle-right"></span> 更多醫事部
+							</button>
+						</div> -->
+					</div>
+
+
+					<div class="tab-pane fade" id="news99" role="tabpanel" aria-labelledby="news99-tab">
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=1845" title="桃園療養院各類人員甄選登記表">
+										<span class="rowhoverSp">
+											[2022-09-27]
+										</span>
+										桃園療養院各類人員甄選登記表
+										<span class="badge badge-dept">
+											人事室
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2355" title="公告-本院111年9月份甄選約用專科護理師、護理師及約用中級行政專員甄選結果公告">
+										<span class="rowhoverSp">
+											[2022-09-20]
+										</span>
+										公告-本院111年9月份甄選約用專科護理師、護理師及約用中級行政專員甄選結果公告
+										<span class="badge badge-dept">
+											人事室
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2353" title="公告本院社會工作科社會工作師職缺甄選結果">
+										<span class="rowhoverSp">
+											[2022-09-16]
+										</span>
+										公告本院社會工作科社會工作師職缺甄選結果
+										<span class="badge badge-dept">
+											人事室
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2352" title="公告本院總務室科員職缺甄選結果">
+										<span class="rowhoverSp">
+											[2022-09-16]
+										</span>
+										公告本院總務室科員職缺甄選結果
+										<span class="badge badge-dept">
+											人事室
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2348" title="公告本院醫務行政室主任職缺甄選結果">
+										<span class="rowhoverSp">
+											[2022-09-12]
+										</span>
+										公告本院醫務行政室主任職缺甄選結果
+										<span class="badge badge-dept">
+											人事室
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2347" title="公告-本院111年9月份甄選約用藥師、護理師、專科護理師、個案管理師及實習護士甄選結果公告">
+										<span class="rowhoverSp">
+											[2022-09-07]
+										</span>
+										公告-本院111年9月份甄選約用藥師、護理師、專科護理師、個案管理師及實習護士甄選結果公告
+										<span class="badge badge-dept">
+											人事室
+										</span>
+									</a>
+								</div>
+							</div>
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news99-more" onclick="location.href='/?aid=301'" title="更多行政部">
+								<span class="glyphicon glyphicon-triangle-right"></span> 更多行政部
+							</button>
+						</div> -->
+					</div>
+
+
+					<div class="tab-pane fade" id="news91" role="tabpanel" aria-labelledby="news91-tab">
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2354" title="醫策會與醫界共同響應WHO病人安全日">
+										<span class="rowhoverSp">
+											[2022-09-20]
+										</span>
+										醫策會與醫界共同響應WHO病人安全日
+										<span class="badge badge-dept">
+											醫療品質暨病人安全委員會
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2285" title="111年度第二次會期異動">
+										<span class="rowhoverSp">
+											[2022-05-19]
+										</span>
+										111年度第二次會期異動
+										<span class="badge badge-dept">
+											倫理委員會
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2223" title="111-112年度醫療品質及病人安全工作目標">
+										<span class="rowhoverSp">
+											[2022-02-16]
+										</span>
+										111-112年度醫療品質及病人安全工作目標
+										<span class="badge badge-dept">
+											醫療品質暨病人安全委員會
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2215" title="科技部111年度「智慧醫療產學聯盟計畫」徵求公告">
+										<span class="rowhoverSp">
+											[2022-01-26]
+										</span>
+										科技部111年度「智慧醫療產學聯盟計畫」徵求公告
+										<span class="badge badge-dept">
+											臨床研究中心
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2200" title="111年倫理委員會(預定)會期">
+										<span class="rowhoverSp">
+											[2022-01-05]
+										</span>
+										111年倫理委員會(預定)會期
+										<span class="badge badge-dept">
+											倫理委員會
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2184" title="受試者招募廣告修正公告">
+										<span class="rowhoverSp">
+											[2021-12-22]
+										</span>
+										受試者招募廣告修正公告
+										<span class="badge badge-dept">
+											倫理委員會
+										</span>
+									</a>
+								</div>
+							</div>
+												<!-- <div class="row more-area">
+							<button class="btn btn-success" id="news91-more" onclick="location.href='/?aid=301'" title="更多其他部門">
+								<span class="glyphicon glyphicon-triangle-right"></span> 更多其他部門
+							</button>
+						</div> -->
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-xs-12 dotor-border wow fadeIn">
+				<noscript>您的瀏覽器不支援JavaScript功能，若「主治醫師介紹」輪播無法正常使用時，請開啟瀏覽器JavaScript狀態，謝謝！</noscript>
+<div class="title wow fadeInRight" data-wow-delay="0.1s">
+	主治醫師介紹
+</div>
+<div class="col-md-12 col-12">
+	<div class="owl-carousel owl-theme owlDoctor wow fadeInRight" data-wow-delay="0.1s">
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=448" title="楊天淇 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/e80d30202e2e98ad25b09f95f83426da.jpg" alt="楊天淇 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						楊天淇 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=447" title="孔祥瑄醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						孔祥瑄醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=52&page_name=detail&iid=435" title="醫事檢驗師郭家銘(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						
+					</div>
+					<div class="titleArea">
+						醫事檢驗科
+					</div>
+					<div class="txtArea">
+						醫事檢驗師郭家銘
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=52&page_name=detail&iid=433" title="醫事檢驗師吳欣薇組長(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						
+					</div>
+					<div class="titleArea">
+						醫事檢驗科
+					</div>
+					<div class="txtArea">
+						醫事檢驗師吳欣薇組長
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=52&page_name=detail&iid=437" title="醫事放射師薛月雯(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						
+					</div>
+					<div class="titleArea">
+						醫事檢驗科
+					</div>
+					<div class="txtArea">
+						醫事放射師薛月雯
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=52&page_name=detail&iid=438" title="醫事放射師劉姵伶(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						
+					</div>
+					<div class="titleArea">
+						醫事檢驗科
+					</div>
+					<div class="txtArea">
+						醫事放射師劉姵伶
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=52&page_name=detail&iid=436" title="醫事檢驗師劉恒瑋(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						
+					</div>
+					<div class="titleArea">
+						醫事檢驗科
+					</div>
+					<div class="txtArea">
+						醫事檢驗師劉恒瑋
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=52&page_name=detail&iid=434" title="醫事檢驗師鍾淑萍(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						
+					</div>
+					<div class="titleArea">
+						醫事檢驗科
+					</div>
+					<div class="txtArea">
+						醫事檢驗師鍾淑萍
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=96&page_name=detail&iid=393" title="陸昭維 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/4497b938ac420ed0f444d92adebc6127.jpg" alt="陸昭維 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						高年精神科
+					</div>
+					<div class="txtArea">
+						陸昭維 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=96&page_name=detail&iid=335" title="邱献章 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/083ee5b454c7361ec1ae843576691c5f.jpg" alt="邱献章 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						高年精神科
+					</div>
+					<div class="txtArea">
+						邱献章 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=352" title="楊家純 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/969c7ed1225ab6bb30c515abe4b1cb34.jpg" alt="楊家純醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						楊家純 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=46&page_name=detail&iid=61" title="詹佳祥 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/ec4d9d38d086e21085b77d6d5f4d21fd.jpg" alt="詹佳祥醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						成癮治療科
+					</div>
+					<div class="txtArea">
+						詹佳祥 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=96&page_name=detail&iid=425" title="陳儷棻醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/2fb138a17810ca180ed47c93cc198db0.png" alt="陳儷棻醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						高年精神科
+					</div>
+					<div class="txtArea">
+						陳儷棻醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=96&page_name=detail&iid=275" title="謝青宙 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/7f473092978cdc607f911dbba4543d3b.jpg" alt="謝青宙 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						高年精神科
+					</div>
+					<div class="txtArea">
+						謝青宙 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=96&page_name=detail&iid=279" title="吳恩亮 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/8b46feec02e4e200b538eff44e142acc.jpg" alt="吳恩亮 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						高年精神科
+					</div>
+					<div class="txtArea">
+						吳恩亮 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=43&page_name=detail&iid=371" title="黃國權 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/017d90f650cc68185805c4b4b26c3e4c.jpg" alt="黃國權醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						社區精神科
+					</div>
+					<div class="txtArea">
+						黃國權 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=43&page_name=detail&iid=418" title="林怡君醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/5b8a67657bdca6d1c56cfed7c0243bf7.jpg" alt="林怡君 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						社區精神科
+					</div>
+					<div class="txtArea">
+						林怡君醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=43&page_name=detail&iid=385" title="田心喬 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/bcec735d2f78aa4142f066b1e864dfdd.jpg" alt="田心喬 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						社區精神科
+					</div>
+					<div class="txtArea">
+						田心喬 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=297" title="陳頌威 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/e91bf735dadfe5555d2e37066fa251c9.jpg" alt="陳頌威 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						陳頌威 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=248" title="王璽瑜醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/b6200f251e38e4b8b8d3617d49385f01.jpg" alt="王璽瑜醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						王璽瑜醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=420" title="葉綺薇醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/e6cc391f91615cce85db44f7a0edeb7a.png" alt="醫師照片" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						葉綺薇醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=416" title="陳儷棻醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/d4815056fcec349b872dd81b02c66841.png" alt="醫師照片" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						陳儷棻醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=35" title="吳洽明 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/aea4a906189ec8a9876dc011ae1b8dbf.jpg" alt="吳洽明醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						吳洽明 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=37" title="詹佳祥 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/27b40115032f401709a7d561a83e1ecf.jpg" alt="詹佳祥醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						詹佳祥 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=395" title="王世傑 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/5538b6bb6e8ac49a99a21e6266740cad.jpg" alt="王世傑 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						王世傑 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=42&page_name=detail&iid=394" title="莫嘉敏醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/b7193f67b024ad54b539dc68aebdae91.jpg" alt="莫嘉敏醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						兒童青少年精神科
+					</div>
+					<div class="txtArea">
+						莫嘉敏醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=23" title="陳建志 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/0a9c8f101dd4c9253ef83414ec61f220.jpg" alt="陳建志醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						陳建志 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=42&page_name=detail&iid=353" title="林峯立醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/cec17d79fb953136db002c5a96f361b1.png" alt="林峯立醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						兒童青少年精神科
+					</div>
+					<div class="txtArea">
+						林峯立醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=46&page_name=detail&iid=148" title="范瓊月 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/1f997d525a195e798775dc8450750abf.jpg" alt="范瓊月 醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						成癮治療科
+					</div>
+					<div class="txtArea">
+						范瓊月 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=247" title="謝青宙醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/7df4cecd8d24c286be5db9858d2abb85.jpg" alt="謝青宙醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						謝青宙醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=329" title="孫效儒 醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/e8d212d1f690928d9df577ad11693bbc.jpg" alt="孫效儒醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						一般精神科
+					</div>
+					<div class="txtArea">
+						孫效儒 醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=42&page_name=detail&iid=73" title="李國平醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/08b78c112ea7c5b9a1bad6eedbdc5302.jpg" alt="李國平醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						兒童青少年精神科
+					</div>
+					<div class="txtArea">
+						李國平醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=42&page_name=detail&iid=64" title="陳美珠醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/fe73f6a280b1a9fc69830c7cdb349568.jpg" alt="陳美珠醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						兒童青少年精神科
+					</div>
+					<div class="txtArea">
+						陳美珠醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=46&page_name=detail&iid=59" title="吳坤鴻 主任(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/9640f008e7e7354e619b31d755ed53ad.jpg" alt="吳坤鴻主任" width="155" />
+					</div>
+					<div class="titleArea">
+						成癮治療科
+					</div>
+					<div class="txtArea">
+						吳坤鴻 主任
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=42&page_name=detail&iid=65" title="宋成賢醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/2584c5b809e1bf9477a74c87fd7d0e23.jpg" alt="宋成賢醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						兒童青少年精神科
+					</div>
+					<div class="txtArea">
+						宋成賢醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=42&page_name=detail&iid=161" title="許元彰醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/a1e1069e5aa282b28ac82f98ee656cd6.jpg" alt="許元彰醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						兒童青少年精神科
+					</div>
+					<div class="txtArea">
+						許元彰醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+					<div class="item">
+				<div class="col-md-12 col-12 text-center">
+				<!--<a href="/?aid=51&pid=42&page_name=detail&iid=72" title="李    洵醫師(開新視窗)" style="display:block;" target="_blank">-->
+					<div class="imgArea">
+						<img src="/public/public_se/4ba739b73862f38731638af7f361ba52.jpg" alt="李洵醫師" width="155" />
+					</div>
+					<div class="titleArea">
+						兒童青少年精神科
+					</div>
+					<div class="txtArea">
+						李    洵醫師
+					</div>
+				<!--</a>-->
+				</div>
+			</div>
+			</div>
+</div>
+
+<script>
+$('.owlDoctor').owlCarousel({
+	loop:true,
+	margin:20,
+	nav:false,
+	dots:false,
+	autoplay: true,
+	autoplayTimeout: 5000,
+	autoplayHoverPause: true,
+	responsive:{
+		0:{
+			items:1
+		},
+		600:{
+			items:1
+		},
+		1000:{
+			items:1
+		}
+	}
+})
+
+$(window).on('resize', function() {
+	if($('body').width()<991) {
+		var w = $('body').width();
+		var sqrt = Math.sqrt(w)
+		var h= sqrt/3+w;
+		$('.imgArea').css({'max-height': h});
+	} else {
+		$('.imgArea').css({'max-height': '300'});
+	}
+});
+</script>			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+	$(document).ready(function(){
+		$("#news-more").focusout(function(){
+			$("#news88-tab").focus();
+			$("#news88-tab").trigger('click');
+		});
+
+		$("#news88-more").focusout(function(){
+			$("#news90-tab").focus();
+			$("#news90-tab").trigger('click');
+		});
+
+		$("#news90-more").focusout(function(){
+			$("#news99-tab").focus();
+			$("#news99-tab").trigger('click');
+		});
+
+		$("#news99-more").focusout(function(){
+			$("#news91-tab").focus();
+			$("#news91-tab").trigger('click');
+		});
+	});
+</script>
+	<div class="typclinks">
+		<div class="container-fluid pb-3">
+			<div class="row">
+				<div class="col-12 col-md-12 text-left">
+					<h2 class="links_title">
+						<a href="/?aid=519" title="更多桃療專區"><i class="fa fa-link"></i>&nbsp;桃療專區</a>
+					</h2>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="owl-carousel owl-theme owltourl">
+											<div class="item p-3">
+							<a href="/?aid=503&pid=0&page_name=sub_list&type=6" title="防疫安心網(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/51c9894d900c5622f302c3e2400dca53.jpg" alt="防疫安心網(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=52&pid=99" title="北部藥癮示範中心(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/d8a9e4008d715f069466028d20ed7f43.jpg" alt="北部藥癮示範中心(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=503&pid=0&page_name=sub_list&type=t3Oo7qitpN-72cOqxbKpd7FNsM8" title="桃療新制身心障礙鑑定專區(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/11a9654da55922261a7be5dc3cccfc4b.jpg" alt="桃療新制身心障礙鑑定專區(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=57&pid=82&page_name=detail&iid=290" title="病人安全專區(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/a8ba81d14adf255fc5910f9290d28279.jpg" alt="病人安全專區(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="/?aid=52&pid=108" title="受試者保護工作小組(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/69b9216415d05fbb5164ff2b11da04cc.jpg" alt="受試者保護工作小組(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=301&pid=87" title="倫理委員會(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/ce2b2138d52523fa1be0db3cf9fed443.jpg" alt="倫理委員會(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=301&pid=88" title="北區精神醫療網(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/5ab9a1acc39c889808a8ecb52dbc25f4.jpg" alt="北區精神醫療網(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=52&pid=90" title="醫學教育(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/8ec0635ee237fcfc942f1a937bf44bb3.jpg" alt="醫學教育(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=503&type=tUy10q7nwPg" title="無菸桃療(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/4db2817ebd874a3ff97d2d763b1937cd.jpg" alt="無菸桃療(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=503&type=sLexZKtQtmmxTbDP" title="健康促進專區(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/181e27afbdd9d69889e72184a31a6728.png" alt="健康促進專區(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=503&pid=0&page_name=sub_list&type=sKrE1qTNtb0" title="高齡友善(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/40e6b8f1ee4dd7b310b7975eccc0868f.png" alt="高齡友善(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=57&pid=63" title="人事室檔案下載_性騷擾防治(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/4215b3720221d873841c41777b0f5ade.gif" alt="人事室檔案下載_性騷擾防治(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=52&pid=94" title="SDM醫病共享決策宣導(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/aec0892fb46afeac68aa3478318328de.png" alt="SDM醫病共享決策宣導(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=503&pid=0&page_name=sub_list&type=5" title="長照 2.0 專區(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/b04574a830171f237889f0be2607f568.gif" alt="長照 2.0 專區(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=52&pid=63" title="桃療員工關懷協助(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/3aafd1c5f33de83c186ccf86a4a689ec.gif" alt="桃療員工關懷協助(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://drug.typc.mohw.gov.tw" title="桃園療養院_常備藥品查詢(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/2654bc8e690bea467cf26817f8ead6a7.jpg" alt="桃園療養院_常備藥品查詢(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.youtube.com/channel/UCOL45r4oBnyvNyml7Dq78nA/videos" title="桃療youtube頻道(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/b87dc113acbff6fa748f26a2ba3389fd.png" alt="桃療youtube頻道(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.typc.mohw.gov.tw/?aid=512&pid=0&page_name=detail&type=0&iid=250" title="桃療自費專區(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/cbd78e9c8ab9f2954e602799d8aa3cb1.jpg" alt="桃療自費專區(開新視窗)" /></a>
+						</div>
+									</div>
+			</div>
+			<noscript>您的瀏覽器不支援JavaScript功能，若「桃療專區」輪播無法正常使用時，請開啟瀏覽器JavaScript狀態，謝謝！</noscript>
+		</div>
+	</div>
+
+	<script>
+	$('.owltourl').owlCarousel({
+		loop:false,
+		margin:10,
+		nav:false,
+		dots:true,
+		autoplay: false,
+		autoplayTimeout: 2000,
+		autoplayHoverPause: false,
+		autoHeight:true,
+		responsive:{
+			0:{
+				items:2
+			},
+			600:{
+				items:4
+			},
+			1000:{
+				items:6
+			}
+		}
+	})
+	</script>
+
+	<div class="rellinks">
+		<div class="container-fluid pb-3">
+			<div class="row">
+				<div class="col-12 col-md-12 text-left">
+					<h2 class="links_title">
+						<a href="/?aid=514" title="更多相關連結"><i class="fa fa-link"></i>&nbsp;相關連結</a>
+					</h2>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="owl-carousel owl-theme owltourl">
+											<div class="item p-3">
+							<a href="https://www.mohw.gov.tw" title="衛生福利部(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/a06362a09e413de823f4de94270b1152.png" alt="衛生福利部(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.cdc.gov.tw/travelepidemic.aspx?treeid=aa2d4b06c27690e6&nowtreeid=fb6a405b1d67aa69" title="衛生福利部疾病管制署(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/443ea931a4595d5c1c2f7cf890c20e59.jpg" alt="衛生福利部疾病管制署(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.tychb.gov.tw/100/index.asp" title="PNG下載(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/dc4703cdc85f9a5f911416a7e298ff93.png" alt="PNG下載(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.hpa.gov.tw/BHPNet/Web/Index/Index.aspx" title="衛生福利部國民健康署(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/daf1d4f208540caf2a6433edba5ea331.jpg" alt="衛生福利部國民健康署(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.npa.gov.tw/ch/index" title="內政部警政署(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/d05d0761811b249b000b9fef1a02272f.jpg" alt="內政部警政署(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://gec.ey.gov.tw/" title="行政院性別平等會(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/144dd5008c8f766d309b79cbb45fbe63.png" alt="行政院性別平等會(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://tspc.tw/tspc/portal/index/index.jsp" title="自殺防治中心(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/9648cb0f4a30c11b906ec8ce5133a968.gif" alt="自殺防治中心(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://ecare.mohw.gov.tw/" title="關懷e 一起來(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/c1d2e06ba73fd06e149b27582603b4c5.jpg" alt="關懷e 一起來(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.facebook.com/patientsafety.tw/" title="就醫安全非知不可(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/0fc3ea6d6ed5ce99a439128856c6b821.png" alt="就醫安全非知不可(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://antidrug.moj.gov.tw/mp-4.html" title="法務部_反毒大本營(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/ff704e71e28b455a6e57785c6e7083aa.png" alt="法務部_反毒大本營(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://shwoo.gov.taipei/shwoo/home/home00/index" title="台北惜物網 https://shwoo.gov.taipei(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/74dc325fcaf06fab47f87c5a5f9693d5.png" alt="台北惜物網 https://shwoo.gov.taipei(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://1966.gov.tw/LTC/mp-201.html" title="長照政策專區(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/228fdababb7aee17aa137654f27fe436.jpg" alt="長照政策專區(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.organ.org.tw/" title="中華民國器官捐贈協會(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/c4195ce1fbc8d0535c1ad2b06f5e2c4b.gif" alt="中華民國器官捐贈協會(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.nhi.gov.tw/Vulnerable_Care/Vulnerable_Care.aspx?menu_id=24&q=2&webdata_id=4731" title="衛福部_健保關懷通報(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/13819de284403187eb41b8dda7812af4.jpg" alt="衛福部_健保關懷通報(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.gov.tw/" title="台灣e院電子化政府入口網(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/4e422bc671fccf74607f9c4b6aca25ca.gif" alt="台灣e院電子化政府入口網(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.facebook.com/pages/%E9%83%A8%E9%86%AB%E5%8A%A0%E6%B2%B9%E8%AE%9A/810224642388199" title="部醫加油讚(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/0a214a7f1379acd7fbd58f16c8a37a20.png" alt="部醫加油讚(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://hospital.kingnet.com.tw/medicine/list.html" title="國家網路藥典(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/6f65c38ff4658eb6cea264657bccdb4c.png" alt="國家網路藥典(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://sp1.hso.mohw.gov.tw/doctor/Index1.php" title="台灣e院(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/647818707734a20456657be5ffe05ac6.png" alt="台灣e院(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://oa.hso.mohw.gov.tw/login.php" title="桃療員工電子郵件(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/3dfa6b7a8171d9620f78aa30a989003b.jpg" alt="桃療員工電子郵件(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://med.nhi.gov.tw/ihke0000/IHKE0100S01.aspx" title="中央健保署_健康存摺(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/09dcf13e95eabfc4181b2632eb9f404a.png" alt="中央健保署_健康存摺(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="http://www.e-quit.org/index.aspx" title="JPG下載(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/82bb6e0a5a85362a491577c889956d0a.jpg" alt="JPG下載(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://www.mohw.gov.tw/cp-3797-43039-1.html" title="未滿2歲少子女化對策：建置托育準公共化機制、擴大育兒津貼(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/a454ed7ec7495d4e0caf60d71d9d0341.jpg" alt="未滿2歲少子女化對策：建置托育準公共化機制、擴大育兒津貼(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://ecpa.dgpa.gov.tw/" title="行政院人事行政總處人事服務網(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/5643654133983cf28cfb2005a484820a.png" alt="行政院人事行政總處人事服務網(開新視窗)" /></a>
+						</div>
+											<div class="item p-3">
+							<a href="https://crpd.sfaa.gov.tw/" title="CRPD身心障礙者權利公約(開新視窗)" style="display:block;" target="_blank" rel="noopener noreferrer"><img class="img-fluid w-100" src="/public/tourl/e329e441132d308d5f570bf4b3bd8088.PNG" alt="CRPD身心障礙者權利公約(開新視窗)" /></a>
+						</div>
+									</div>
+			</div>
+			<noscript>您的瀏覽器不支援JavaScript功能，若「相關連結」輪播無法正常使用時，請開啟瀏覽器JavaScript狀態，謝謝！</noscript>
+		</div>
+	</div>
+
+	<script>
+	$('.owltourl').owlCarousel({
+		loop:false,
+		margin:10,
+		nav:false,
+		dots:true,
+		autoplay: false,
+		autoplayTimeout: 2000,
+		autoplayHoverPause: false,
+		autoHeight:true,
+		responsive:{
+			0:{
+				items:2
+			},
+			600:{
+				items:4
+			},
+			1000:{
+				items:6
+			}
+		}
+	})
+	</script>
+
+<section class="HI_bg">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-12">
+				<div class="margin_h">
+					<div class="feature-box">
+						<a class="use-flex" href="tel:(03)369-8553 總機 9" title="電話:(03)369-8553 總機 9">
+							<div class="col-md-12 col-4">
+								<div class="icon-box d-flex align-items-center justify-content-center">
+									<i class="fas fa-phone icon"></i>
+								</div>
+							</div>
+							<div class="col-md-12 col-8">
+								<div class="content text-center">
+									<div class="title">電話</div>
+									<p>(03)369-8553 總機 9</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-12">
+				<div class="margin_h">
+					<div class="feature-box">
+						<a class="use-flex" href="tel:(03)360-6929" title="傳真:(03)360-6929">
+							<div class="col-md-12 col-4">
+								<div class="icon-box d-flex align-items-center justify-content-center">
+									<i class="fas fa-fax icon"></i>
+								</div>
+							</div>
+							<div class="col-md-12 col-8">
+								<div class="content text-center">
+									<div class="title">傳真</div>
+									<p>(03)360-6929</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-12">
+				<div class="margin_h">
+					<div class="feature-box">
+						<a class="use-flex" href="https://www.google.com.tw/maps/search/衛生福利部 桃園療養院" target="_blank" rel="noopener noreferrer" title="地址:33058 桃園市桃園區龍壽街71號">
+							<div class="col-md-12 col-4">
+								<div class="icon-box d-flex align-items-center justify-content-center">
+									<i class="fas fa-map-marked-alt icon"></i>
+								</div>
+							</div>
+							<div class="col-md-12 col-8">
+								<div class="content text-center">
+									<div class="title">地址</div>
+									<p>33058 桃園市桃園區龍壽街71號</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--Footer-->
+	<!--Right_Slide_Menu-->
+	<button class="side-menu-btn" id="side-menu-btn" onclick="openNav()" title="快速連結">
+		<i class="fas fa-bars" style="margin-right:15px;"></i>快速連結
+	</button>
+
+	<div id="mySidenav" class="sidenav">
+		<div class="SideNavImg">
+			<a href="javascript:void(0)" title="關閉" class="closebtn" onclick="closeNav()">
+				<i class="fas fa-times-circle"></i>
+				<p style="display: none;">關閉</p>
+			</a>
+			<a class="logo d-block" href="/" title="衛生福利部 桃園療養院">
+				<img class="img-fluid" src="/images/home_img/logo-white.png" alt="衛生福利部 桃園療養院">
+			</a>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/33f6e8825132d8d245b21d943659c81c.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.typc.mohw.gov.tw/?aid=501" title="門診時間表(開新視窗)" target="_blank" rel="noopener noreferrer">
+							門診時間表
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/a8c398ef99d3394a870b518f3436e07c.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://register.typc.mohw.gov.tw/OINetReg/" title="網路掛號(開新視窗)" target="_blank" rel="noopener noreferrer">
+							網路掛號
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/5d1c8edc2a9c5f4a62c3c1bd5cfc1eab.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://register.typc.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NumberInq.aspx" title="看診號查詢(開新視窗)" target="_blank" rel="noopener noreferrer">
+							看診號查詢
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/abeafc3509188fb2b518e7bac628299a.jpg" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://register.typc.mohw.gov.tw/WebFastDrug/Default.aspx" title="慢箋預約(開新視窗)" target="_blank" rel="noopener noreferrer">
+							慢箋預約
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/d5f399ff63c512eda1a039e946a82133.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.typc.mohw.gov.tw/?aid=505" title="就醫指南(開新視窗)" target="_blank" rel="noopener noreferrer">
+							就醫指南
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/a557affc5b7d02cdc69b09f9ba572ee7.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.typc.mohw.gov.tw/?aid=509" title="衛教專區(開新視窗)" target="_blank" rel="noopener noreferrer">
+							衛教專區
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/1b569518e788870a2312d710fea8e115.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.typc.mohw.gov.tw/?aid=102" title="各科介紹(開新視窗)" target="_blank" rel="noopener noreferrer">
+							各科介紹
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/03f1659b318acef7bc87406583abee8f.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.typc.mohw.gov.tw/?aid=512" title="常見問答(開新視窗)" target="_blank" rel="noopener noreferrer">
+							常見問答
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/b72e222d88c35c4316475ed2e66eaaca.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.typc.mohw.gov.tw/?aid=59&pid=84" title="桃療常備藥品(開新視窗)" target="_blank" rel="noopener noreferrer">
+							桃療常備藥品
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/33b8af4ee66a2c5d7c2569b9358133e0.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.typc.mohw.gov.tw/?aid=311&pid=0&page_name=detail&iid=53" title="病床利用統計(開新視窗)" target="_blank" rel="noopener noreferrer">
+							病床利用統計
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/93ffaed39cafc1b1c1535ec52c577a1e.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.typc.mohw.gov.tw/?aid=101&iid=5" title="交通位置(開新視窗)" target="_blank" rel="noopener noreferrer">
+							交通位置
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/efbdfa6046b83a42b5532e390d6af7cc.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.typc.mohw.gov.tw/?aid=309&pid=0&page_name=list&type=7&pageNo=1" title="財務報表公告(開新視窗)" target="_blank" rel="noopener noreferrer">
+							財務報表公告
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div class="SideNavStacked" >
+			<div class="row mx-0">
+				<div class="col-md-12 d-flex align-items-center px-0">
+					<div class="mx-2" style="width:30%;">
+						<img class="img-fluid" src="/public/tourl/quick_url/b90cdda8a466be48555f0cf8f4286928.png" alt="">
+					</div>
+					<div class="SideNavTitle">
+						<a href="https://www.mohw.gov.tw/cp-9-18-1.html" title="重大政策(開新視窗)" target="_blank" rel="noopener noreferrer">
+							重大政策
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	<noscript>
+		您的瀏覽器不支援JavaScript功能，若「快速連結」功能無法正常使用時，請開啟瀏覽器JavaScript狀態，謝謝！
+	</noscript>
+<!--Right_Slide_Menu End-->
+
+
+<div class="container-fluid d-none d-sm-block" id="footerMap">
+	<div class="row text-center">
+		<div class="col-md-12" id="webMap">
+			<button class="btn WebMapbtn WebMapTitle" id="sitemaplinkx" title="關閉網站導覽">
+				<p style="display: none;">關閉網站導覽</p>
+				<i class="fas fa-chevron-up"></i>
+			</button>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12 use-flex-no-hieght" id="webMapArea">
+												<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">關於本院</li>
+																																																																																																																																										<li class="linkw" style="text-align:center;">
+									<a href="/?aid=101" title="醫院介紹">醫院介紹</a>
+																			<ul style="padding-left:20px;">
+																					</ul>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=103" title="各界肯定">各界肯定</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=102" title="各科介紹">各科介紹</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">醫療團隊</li>
+																																																																																																																																																																																														<li class="linkw" style="text-align:center;">
+									<a href="/?aid=201" title="專業陣容">專業陣容</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">訊息專區</li>
+																																																																																																																																																																																																											<li class="linkw" style="text-align:center;">
+									<a href="/?aid=301" title="最新消息">最新消息</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=307" title="代診通知">代診通知</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=302" title="新聞稿">新聞稿</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=304" title="活動相簿">活動相簿</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=506" title="相關法令">相關法令</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=309" title="政府公開資訊">政府公開資訊</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=311" title="病床利用統計">病床利用統計</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=306" title="院        訊">院        訊</a>
+																	</li>
+																																									<li class="linkw" style="text-align:center;">
+									<a href="/?aid=516" title="個資保護專區">個資保護專區</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=517" title="電子病歷專區">電子病歷專區</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																												</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">學術活動</li>
+																																																																																																																																																																																																																																																																																																																																																										<li class="linkw" style="text-align:center;">
+									<a href="/?aid=404" title="課程及講座">課程及講座</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=401" title="線上報名">線上報名</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=403" title="講義下載">講義下載</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=402" title="學術發表">學術發表</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">便民服務</li>
+																																																																																																																																																																																																																																																																																																																																																																																																														<li class="linkw" style="text-align:center;">
+									<a href="/?aid=503&pid=0&page_name=sub_list" title="各類主題專區">各類主題專區</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=501" title="門診時間表">門診時間表</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=505" title="服務白皮書">服務白皮書</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=503" title="服務專區">服務專區</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=504" title="服務專線">服務專線</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=507" title="申訴流程">申訴流程</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=508" title="資料下載">資料下載</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=509" title="衛教資訊">衛教資訊</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=510" title="影音專區">影音專區</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=511" title="感謝函專區">感謝函專區</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=512" title="常見問題">常見問題</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=514" title="相關連結">相關連結</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=519" title="桃療專區">桃療專區</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">線上服務</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																	<li class="linkw" style="text-align:center;">
+									<a href="https://register.typc.mohw.gov.tw/OINetReg/" target="_blank" rel="noopener noreferrer" title="網掛及門診表(開新視窗)">網掛及門診表</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=603" title="線上申訴服務">線上申訴服務</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=606" title="網路申辦">網路申辦</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">徵才或招標</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								<li class="linkw" style="text-align:center;">
+									<a href="/?aid=701" title="線上徵才">線上徵才</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=702" title="招標公告">招標公告</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=703" title="志工招募">志工招募</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">聯絡我們</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									<li class="linkw" style="text-align:center;">
+									<a href="/?aid=902" title="院長信箱">院長信箱</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=901" title="意見信箱">意見信箱</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			</ul>
+																<ul class="webMapW" style="list-style-type:none;">
+						<li class="WebMapTitles">線上問卷</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															<li class="linkw" style="text-align:center;">
+									<a href="/?aid=801" title="衛教及熱門議題投票">衛教及熱門議題投票</a>
+																	</li>
+																												<li class="linkw" style="text-align:center;">
+									<a href="/?aid=802" title="滿意度調查">滿意度調查</a>
+																	</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													</ul>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							</div>
+	</div>
+	<noscript>您的瀏覽器不支援JavaScript功能，若「網站導覽」功能無法正常使用時，請開啟瀏覽器JavaScript狀態，謝謝！</noscript>
+</div>
+
+
+<section class="footer_color">
+	<div class="container text-center">
+		<div class="row use-flex">
+			<div class="row d-none d-sm-block">
+				<div class="col-12 text-center footer-explain">
+					<a href="/?aid=information&iid=01" title="無障礙宣告">無障礙宣告</a>&emsp;&emsp;｜&emsp;&emsp;
+					<a href="/?aid=information&iid=02" title="隱私權政策">隱私權政策</a>&emsp;&emsp;｜&emsp;&emsp;
+					<a href="/?aid=information&iid=03" title="網站安全政策">網站安全政策</a>&emsp;&emsp;｜&emsp;&emsp;
+					<a href="/?aid=information&iid=04" title="資訊安全政策">資訊安全政策</a>
+				</div>
+			</div>
+
+			<div class="col-12 col-md-12 use-flex">
+				<div class="col-md-4 col-12 my-1">
+					<a href="/" class="footer-logo d-block" title="衛生福利部 桃園療養院">
+						<img class="img-fluid" src="/images/home_img/logo-white.png" alt="衛生福利部 桃園療養院" style="margin: 0 auto;">
+					</a>
+				</div>
+
+				<div class="col-md-1 col-sm-4 col-4 my-1">
+					<img class="img-fluid" src="/images/home_img/hpalogo.png" alt="健康職場認證標章" style="margin: 0 auto;">
+				</div>
+
+				<div class="col-md-2 col-sm-6 col-6 my-1">
+					<a href="https://accessibility.ncc.gov.tw/Applications/Detail?category=20210317161249" title="連結到無障礙AA檢測結果(另開視窗)" style="display: block;" target="_blank" rel="noopener noreferrer">
+						<img class="img-fluid" src="/images/home_img/2A.png" alt="無障礙AA檢測結果" style="margin: 0 auto;">
+					</a>
+				</div>
+					<div class="col-md-3 col-xs-12 border-line text-center my-1 py-3">
+		<div>
+			<span>累計人數：<img src="/images/counter/12/1.gif" title="1" alt="1" align="top"><img src="/images/counter/12/2.gif" title="2" alt="2" align="top"><img src="/images/counter/12/3.gif" title="3" alt="3" align="top"><img src="/images/counter/12/8.gif" title="8" alt="8" align="top"><img src="/images/counter/12/7.gif" title="7" alt="7" align="top"><img src="/images/counter/12/5.gif" title="5" alt="5" align="top"><img src="/images/counter/12/5.gif" title="5" alt="5" align="top"><img src="/images/counter/12/0.gif" title="0" alt="0" align="top"></span>
+		</div>
+		<div>
+			<span>最後更新：2022-09-28</span>
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<div class="container-fluid" style="background-color: #ffbdbd;">
+	<div class="row">
+		<div class="col-12">
+			<div class="copy-right">
+									本網站建議使用Chrome & Firefox & Microsoft Edge瀏覽器 / 螢幕解析度1920*1080以上
+							</div>
+		</div>
+	</div>
+</div>
+
+<noscript>
+	您的瀏覽器不支援JavaScript功能，若「回到頁首」功能無法正常使用時，請開啟瀏覽器JavaScript狀態，謝謝！
+</noscript>
+
+<div class="scroll-to-top">
+	<a href="javascript:void(0)" title="回到頁首" class="use-flex">
+		<p style="display: none;">回到頁首</p>
+		<i class="fas fa-chevron-up"></i>
+	</a>
+</div>
+
+
+<script>
+function openNav() {
+	$('#mySidenav').css('display','block');
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+	$('#mySidenav').css('display','none');
+	if($(window).width() > 768){
+		$('.side-menu-btn').focus();
+	}
+}
+
+$(".SideNavTitle a").last().focusout(function(){
+	$('#mySidenav').css('display','none');
+});
+
+
+$("#sitemaplinkx").click(function(){
+	chkText = $("#webMapArea").css("display");
+	$("#webMapArea").slideToggle("slow");
+	if (chkText == "none"){
+		$("#webMap").find("button").first().html("<i class='fas fa-chevron-up'></i>");
+		$(this).attr("title","關閉網站導覽")
+	}else{
+		$("#webMap").find("button").first().html("<i class='fas fa-chevron-down'></i>");
+		$(this).attr("title","開啟網站導覽")
+	}
+	$("a#sitemaplinkx").focus();
+});
+
+
+// Scroll to top btn
+if($('.scroll-to-top').length){
+	//Check to see if the window is top if not then display button
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 250) {
+		$('.scroll-to-top').fadeIn();
+		} else {
+		$('.scroll-to-top').fadeOut();
+		}
+	});
+
+	//Click event to scroll to top
+	$('.scroll-to-top').on('click', function(){
+		$('html, body').animate({scrollTop : 0},800);
+		return false;
+	});
+}
+</script><!--Footer End-->
+
+</body>
+</html>
+</body>
+
+</html>
