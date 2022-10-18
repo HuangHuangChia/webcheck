@@ -721,11 +721,24 @@ $(document).ready(function(){
 					<div class="tab-pane fade" id="news88" role="tabpanel" aria-labelledby="news88-tab">
 													<div class="row rowhover">
 								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2358" title="111年精神復健機構專任管理人員任職資格教育訓練簡章">
+									<a href="/?aid=301&page_name=detail&iid=2357" title="111年9月份公共服務政策溝通短片合輯一覽表">
 										<span class="rowhoverSp">
-											[2022-09-27]
+											[2022-09-22]
 										</span>
-										111年精神復健機構專任管理人員任職資格教育訓練簡章
+										111年9月份公共服務政策溝通短片合輯一覽表
+										<span class="badge badge-dept">
+											護理科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2358" title="111年精神復健機構專任管理人員任職資格教育訓練簡章--9/29已額滿">
+										<span class="rowhoverSp">
+											[2022-09-29]
+										</span>
+										111年精神復健機構專任管理人員任職資格教育訓練簡章--9/29已額滿
 										<span class="badge badge-dept">
 											社會工作科
 										</span>
@@ -784,19 +797,6 @@ $(document).ready(function(){
 									</a>
 								</div>
 							</div>
-													<div class="row rowhover">
-								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2345" title="員工舒壓、舒心好開心-桃園療養院辦理員工插花課程">
-										<span class="rowhoverSp">
-											[2022-09-02]
-										</span>
-										員工舒壓、舒心好開心-桃園療養院辦理員工插花課程
-										<span class="badge badge-dept">
-											護理科
-										</span>
-									</a>
-								</div>
-							</div>
 												<!-- <div class="row more-area">
 							<button class="btn btn-success" id="news88-more" onclick="location.href='/?aid=301'" title="更多醫療部">
 								<span class="glyphicon glyphicon-triangle-right"></span> 更多醫療部
@@ -808,11 +808,11 @@ $(document).ready(function(){
 					<div class="tab-pane fade" id="news90" role="tabpanel" aria-labelledby="news90-tab">
 													<div class="row rowhover">
 								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2346" title="九月份用藥安全衛教">
+									<a href="/?aid=301&page_name=detail&iid=2365" title="新進藥品通知-Alglutol 333mg">
 										<span class="rowhoverSp">
-											[2022-09-05]
+											[2022-10-13]
 										</span>
-										九月份用藥安全衛教
+										新進藥品通知-Alglutol 333mg
 										<span class="badge badge-dept">
 											藥劑科
 										</span>
@@ -821,50 +821,11 @@ $(document).ready(function(){
 							</div>
 													<div class="row rowhover">
 								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2343" title="藥品外觀變更通知-Leeyo 10mg">
+									<a href="/?aid=301&page_name=detail&iid=2359" title="X光人員體外輻射劑量監測紀錄:安全範圍(111年8月份)資料來源:原子能委員會">
 										<span class="rowhoverSp">
-											[2022-09-01]
+											[2022-09-30]
 										</span>
-										藥品外觀變更通知-Leeyo 10mg
-										<span class="badge badge-dept">
-											藥劑科
-										</span>
-									</a>
-								</div>
-							</div>
-													<div class="row rowhover">
-								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2342" title="藥品外觀變更通知-Dextrose 5%">
-										<span class="rowhoverSp">
-											[2022-09-01]
-										</span>
-										藥品外觀變更通知-Dextrose 5%
-										<span class="badge badge-dept">
-											藥劑科
-										</span>
-									</a>
-								</div>
-							</div>
-													<div class="row rowhover">
-								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2341" title="藥品外觀變更通知-Co-Diovan 80mg/12.5mg">
-										<span class="rowhoverSp">
-											[2022-09-01]
-										</span>
-										藥品外觀變更通知-Co-Diovan 80mg/12.5mg
-										<span class="badge badge-dept">
-											藥劑科
-										</span>
-									</a>
-								</div>
-							</div>
-													<div class="row rowhover">
-								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2339" title="X光人員體外輻射劑量監測紀錄:安全範圍(111年7月份)資料來源:原子能委員會">
-										<span class="rowhoverSp">
-											[2022-08-30]
-										</span>
-										X光人員體外輻射劑量監測紀錄:安全範圍(111年7月份)資料來源:原子能委員會
+										X光人員體外輻射劑量監測紀錄:安全範圍(111年8月份)資料來源:原子能委員會
 										<span class="badge badge-dept">
 											醫事檢驗科
 										</span>
@@ -884,6 +845,45 @@ $(document).ready(function(){
 									</a>
 								</div>
 							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2293" title="X光人員體外輻射劑量監測紀錄:安全範圍(111年5月份)資料來源:原子能委員會">
+										<span class="rowhoverSp">
+											[2022-06-30]
+										</span>
+										X光人員體外輻射劑量監測紀錄:安全範圍(111年5月份)資料來源:原子能委員會
+										<span class="badge badge-dept">
+											醫事檢驗科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2310" title="111-112年度醫療品質及病人安全工作目標-醫院簡報">
+										<span class="rowhoverSp">
+											[2022-06-27]
+										</span>
+										111-112年度醫療品質及病人安全工作目標-醫院簡報
+										<span class="badge badge-dept">
+											藥劑科
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2309" title="111-112年度醫療品質及病人安全工作目標-醫院版手冊">
+										<span class="rowhoverSp">
+											[2022-06-27]
+										</span>
+										111-112年度醫療品質及病人安全工作目標-醫院版手冊
+										<span class="badge badge-dept">
+											藥劑科
+										</span>
+									</a>
+								</div>
+							</div>
 												<!-- <div class="row more-area">
 							<button class="btn btn-success" id="news90-more" onclick="location.href='/?aid=301'" title="更多醫事部">
 								<span class="glyphicon glyphicon-triangle-right"></span> 更多醫事部
@@ -893,6 +893,45 @@ $(document).ready(function(){
 
 
 					<div class="tab-pane fade" id="news99" role="tabpanel" aria-labelledby="news99-tab">
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2363" title="公告-本院111年10月份甄選就業服務員甄選結果公告">
+										<span class="rowhoverSp">
+											[2022-10-11]
+										</span>
+										公告-本院111年10月份甄選就業服務員甄選結果公告
+										<span class="badge badge-dept">
+											人事室
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2362" title="公告-本院111年10月份甄選約用門診護理師、病患服務員甄選結果公告">
+										<span class="rowhoverSp">
+											[2022-10-06]
+										</span>
+										公告-本院111年10月份甄選約用門診護理師、病患服務員甄選結果公告
+										<span class="badge badge-dept">
+											人事室
+										</span>
+									</a>
+								</div>
+							</div>
+													<div class="row rowhover">
+								<div class="col-xs-12 text-left one-line">
+									<a href="/?aid=301&page_name=detail&iid=2361" title="公告-本院111年9月份甄選社工師(補助計畫)、約用書記及臨時人員甄選結果公告">
+										<span class="rowhoverSp">
+											[2022-10-03]
+										</span>
+										公告-本院111年9月份甄選社工師(補助計畫)、約用書記及臨時人員甄選結果公告
+										<span class="badge badge-dept">
+											人事室
+										</span>
+									</a>
+								</div>
+							</div>
 													<div class="row rowhover">
 								<div class="col-xs-12 text-left one-line">
 									<a href="/?aid=301&page_name=detail&iid=1845" title="桃園療養院各類人員甄選登記表">
@@ -926,45 +965,6 @@ $(document).ready(function(){
 											[2022-09-16]
 										</span>
 										公告本院社會工作科社會工作師職缺甄選結果
-										<span class="badge badge-dept">
-											人事室
-										</span>
-									</a>
-								</div>
-							</div>
-													<div class="row rowhover">
-								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2352" title="公告本院總務室科員職缺甄選結果">
-										<span class="rowhoverSp">
-											[2022-09-16]
-										</span>
-										公告本院總務室科員職缺甄選結果
-										<span class="badge badge-dept">
-											人事室
-										</span>
-									</a>
-								</div>
-							</div>
-													<div class="row rowhover">
-								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2348" title="公告本院醫務行政室主任職缺甄選結果">
-										<span class="rowhoverSp">
-											[2022-09-12]
-										</span>
-										公告本院醫務行政室主任職缺甄選結果
-										<span class="badge badge-dept">
-											人事室
-										</span>
-									</a>
-								</div>
-							</div>
-													<div class="row rowhover">
-								<div class="col-xs-12 text-left one-line">
-									<a href="/?aid=301&page_name=detail&iid=2347" title="公告-本院111年9月份甄選約用藥師、護理師、專科護理師、個案管理師及實習護士甄選結果公告">
-										<span class="rowhoverSp">
-											[2022-09-07]
-										</span>
-										公告-本院111年9月份甄選約用藥師、護理師、專科護理師、個案管理師及實習護士甄選結果公告
 										<span class="badge badge-dept">
 											人事室
 										</span>
@@ -1076,30 +1076,15 @@ $(document).ready(function(){
 	<div class="owl-carousel owl-theme owlDoctor wow fadeInRight" data-wow-delay="0.1s">
 					<div class="item">
 				<div class="col-md-12 col-12 text-center">
-				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=448" title="楊天淇 醫師(開新視窗)" style="display:block;" target="_blank">-->
-					<div class="imgArea">
-						<img src="/public/public_se/e80d30202e2e98ad25b09f95f83426da.jpg" alt="楊天淇 醫師" width="155" />
-					</div>
-					<div class="titleArea">
-						一般精神科
-					</div>
-					<div class="txtArea">
-						楊天淇 醫師
-					</div>
-				<!--</a>-->
-				</div>
-			</div>
-					<div class="item">
-				<div class="col-md-12 col-12 text-center">
-				<!--<a href="/?aid=51&pid=41&page_name=detail&iid=447" title="孔祥瑄醫師(開新視窗)" style="display:block;" target="_blank">-->
+				<!--<a href="/?aid=51&pid=45&page_name=detail&iid=449" title="職能治療科主任 王三平(開新視窗)" style="display:block;" target="_blank">-->
 					<div class="imgArea">
 						
 					</div>
 					<div class="titleArea">
-						一般精神科
+						職能治療科
 					</div>
 					<div class="txtArea">
-						孔祥瑄醫師
+						職能治療科主任 王三平
 					</div>
 				<!--</a>-->
 				</div>
@@ -2371,10 +2356,10 @@ $(window).on('resize', function() {
 				</div>
 					<div class="col-md-3 col-xs-12 border-line text-center my-1 py-3">
 		<div>
-			<span>累計人數：<img src="/images/counter/12/1.gif" title="1" alt="1" align="top"><img src="/images/counter/12/2.gif" title="2" alt="2" align="top"><img src="/images/counter/12/3.gif" title="3" alt="3" align="top"><img src="/images/counter/12/8.gif" title="8" alt="8" align="top"><img src="/images/counter/12/7.gif" title="7" alt="7" align="top"><img src="/images/counter/12/5.gif" title="5" alt="5" align="top"><img src="/images/counter/12/5.gif" title="5" alt="5" align="top"><img src="/images/counter/12/0.gif" title="0" alt="0" align="top"></span>
+			<span>累計人數：<img src="/images/counter/12/1.gif" title="1" alt="1" align="top"><img src="/images/counter/12/2.gif" title="2" alt="2" align="top"><img src="/images/counter/12/5.gif" title="5" alt="5" align="top"><img src="/images/counter/12/1.gif" title="1" alt="1" align="top"><img src="/images/counter/12/3.gif" title="3" alt="3" align="top"><img src="/images/counter/12/9.gif" title="9" alt="9" align="top"><img src="/images/counter/12/6.gif" title="6" alt="6" align="top"><img src="/images/counter/12/2.gif" title="2" alt="2" align="top"></span>
 		</div>
 		<div>
-			<span>最後更新：2022-09-28</span>
+			<span>最後更新：2022-10-13</span>
 		</div>
 	</div>
 			</div>

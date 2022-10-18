@@ -1,9 +1,9 @@
-cd c:\webcheck
-c:\webcheck\typc_eng.py
+cd c:\Task\webcheck
+c:\Task\webcheck\typc_eng.py
 timeout /t 10 >nul
 chcp 65001
-IF EXIST "c:\webcheck\TYPC_Eng_info.txt" (
-c:\LineNotify\LineNotify_general.exe "0xQH1k7AuD1CERF9Hy12XNv8MnTOE8V6MwitbfdJHe9" "c:\webcheck\Typc_Eng_info.txt"
+IF EXIST "c:\Task\webcheck\TYPC_Eng_info.txt" (
+c:\Task\LineNotify\LineNotify_general.exe "0xQH1k7AuD1CERF9Hy12XNv8MnTOE8V6MwitbfdJHe9" "c:\Task\webcheck\Typc_Eng_info.txt"
 ) ELSE (
 ECHO "沒執行linenotify"
 )

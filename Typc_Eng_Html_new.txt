@@ -1311,10 +1311,10 @@ $(window).on('resize', function() {
 				</div>
 					<div class="col-md-3 col-xs-12 border-line text-center my-1 py-3">
 		<div>
-			<span>Current Number：<img src="/english/images/counter/12/3.gif" title="3" alt="3" align="top"><img src="/english/images/counter/12/8.gif" title="8" alt="8" align="top"><img src="/english/images/counter/12/0.gif" title="0" alt="0" align="top"><img src="/english/images/counter/12/1.gif" title="1" alt="1" align="top"><img src="/english/images/counter/12/8.gif" title="8" alt="8" align="top"><img src="/english/images/counter/12/9.gif" title="9" alt="9" align="top"><img src="/english/images/counter/12/7.gif" title="7" alt="7" align="top"></span>
+			<span>Current Number：<img src="/english/images/counter/12/3.gif" title="3" alt="3" align="top"><img src="/english/images/counter/12/8.gif" title="8" alt="8" align="top"><img src="/english/images/counter/12/0.gif" title="0" alt="0" align="top"><img src="/english/images/counter/12/2.gif" title="2" alt="2" align="top"><img src="/english/images/counter/12/2.gif" title="2" alt="2" align="top"><img src="/english/images/counter/12/8.gif" title="8" alt="8" align="top"><img src="/english/images/counter/12/2.gif" title="2" alt="2" align="top"></span>
 		</div>
 		<div>
-			<span>Update：2022-09-28</span>
+			<span>Update：2022-10-13</span>
 		</div>
 	</div>
 			</div>
