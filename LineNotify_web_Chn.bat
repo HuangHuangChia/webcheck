@@ -1,4 +1,5 @@
 cd c:\Task\webcheck
+call c:\Task\webcheck\updateChineseVersion.bat
 c:\Task\webcheck\typc_chn.py
 timeout /t 10 >nul
 chcp 65001
